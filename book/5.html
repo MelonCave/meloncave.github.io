@@ -1,0 +1,266 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Phase 5 - 100-Day Personal Knowledge Management Curriculum</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">100-Day Personal Knowledge Management Curriculum</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="phase-v-frontier-exploration-and-custom-tooling-modules-81-100"><a class="header" href="#phase-v-frontier-exploration-and-custom-tooling-modules-81-100"><strong>Phase V: Frontier Exploration and Custom Tooling (Modules 81-100)</strong></a></h2>
+<p><em>Focus: Pushing the boundaries of PKM by building high-performance, custom components and exploring next-generation AI platforms.</em></p>
+<h3 id="modules-81-90-high-performance-pkm-with-rust"><a class="header" href="#modules-81-90-high-performance-pkm-with-rust"><strong>Modules 81-90: High-Performance PKM with Rust</strong></a></h3>
+<p>This section directly addresses the "impedance mismatch" problem identified in Phase I by building a custom, high-performance command-line utility in Rust. This provides a tangible, valuable project that motivates learning a new, more complex language and demonstrates a clear progression in technical capability.</p>
+<ol start="81">
+<li><strong>Setting up the Rust Development Environment:</strong> The Rust toolchain, including rustup and cargo, will be installed. A new binary crate will be created using cargo new foam-link-converter. The basics of the Rust language will be explored, focusing on concepts relevant to this project: file system operations, string manipulation, and error handling.</li>
+<li>Designing the Link Conversion Utility: The command-line tool's logic will be designed. It will need to:<br />
+a. Accept a directory path as a command-line argument.<br />
+b. Recursively walk through the directory to find all .md files.<br />
+c. For each file, read its content into a string.<br />
+d. Use regular expressions to find all instances of Foam's [[wikilink]] syntax.<br />
+e. For each found wikilink, determine the correct relative path to the target file.<br />
+f. Replace the [[wikilink]] with a standard Markdown link ([wikilink](./path/to/file.md)).<br />
+g. Write the modified content back to the file.</li>
+<li><strong>Implementing File System Traversal in Rust:</strong> The first part of the implementation will focus on safely and efficiently traversing the notes directory. Rust libraries like walkdir will be used for this purpose.</li>
+<li><strong>Parsing and Replacing Links with Regex:</strong> Rust's powerful regex crate will be used to implement the core link-finding and replacement logic. This module will focus on crafting a robust regular expression that can handle simple links, aliases, and section links.</li>
+<li><strong>Handling Edge Cases and Path Logic:</strong> A simple replacement is not enough. The tool must be intelligent. For a link like [[my-note]], the tool needs to find the file my-note.md within the directory structure and calculate the correct relative path from the source file to the target file. This involves path manipulation using Rust's standard library.</li>
+<li><strong>Compiling for Performance:</strong> The Rust code will be compiled in release mode (cargo build --release). The performance of this compiled binary will be compared to a hypothetical Python script performing the same task, highlighting the significant speed advantage of a compiled language like Rust for I/O- and CPU-intensive tasks. This provides a concrete demonstration of moving up the "performance ladder" from interpreted to compiled languages.</li>
+<li><strong>Integrating the Rust Tool into the GitHub Action:</strong> The compiled binary will be checked into the repository or built as part of the CI process. The main GitHub Actions workflow will be modified to run this custom utility as a build step before mdbook build is called. This completely automates the solution to the wikilink problem.</li>
+<li><strong>Exploring Other Rust-Based PKM Tools:</strong> To gain further inspiration from the Rust ecosystem, notable open-source PKM tools written in Rust, such as AppFlowy and Joplin, will be reviewed.41 Examining their architecture and feature sets can provide ideas for future enhancements to the custom system.</li>
+<li><strong>Publishing the Crate (Optional):</strong> As an extension, the foam-link-converter utility can be published to crates.io, Rust's public package registry. This provides experience with the full lifecycle of creating and sharing an open-source tool.</li>
+<li><strong>Finalizing the Automated Linking Workflow:</strong> The end-to-end workflow is now complete. A user can write notes in VSCode using fluid [[wikilinks]], push the changes to GitHub, and the automated pipeline will use a custom-built, high-performance Rust utility to seamlessly convert the links for publication with mdBook. This represents a significant engineering achievement within the PKM project.</li>
+</ol>
+<h3 id="modules-91-95-exploring-the-modular-platform-mojo--max"><a class="header" href="#modules-91-95-exploring-the-modular-platform-mojo--max"><strong>Modules 91-95: Exploring the Modular Platform (Mojo &amp; MAX)</strong></a></h3>
+<p>This section ventures into the cutting edge of AI infrastructure, exploring the Modular Platform to understand how to achieve state-of-the-art performance for AI tasks.42</p>
+<ol start="91">
+<li><strong>Introduction to Modular, Mojo, and MAX:</strong> The Modular ecosystem will be introduced. Mojo is a programming language that combines the usability of Python with the performance of C and Rust, designed specifically for AI developers.43 MAX is Modular's suite of AI libraries and tools for high-performance inference.45</li>
+<li><strong>Installing the Modular SDK:</strong> The Modular SDK will be installed, providing access to the Mojo compiler and MAX tools. The native VSCode extension for Mojo will also be installed to get syntax highlighting and language support.42</li>
+<li><strong>Writing "Hello World" in Mojo:</strong> The first Mojo program will be written and compiled. This will introduce Mojo's syntax, which is a superset of Python, and concepts like strong typing with var and fn for function definitions.44</li>
+<li><strong>Running a Pre-Optimized Model with MAX Serving:</strong> The power of the MAX platform will be demonstrated by running a pre-optimized model from the Modular model repository. Using the max serve command, an OpenAI-compatible API endpoint will be started locally, serving a model like Llama 3.45 The performance (tokens per second) of this endpoint will be observed and compared to other inference methods, showcasing the benefits of Modular's optimizations.43</li>
+<li><strong>Experimenting with a Mojo Script:</strong> A simple Mojo script will be written to interact with the MAX-served model. This provides a glimpse into how Mojo can be used to write the high-performance "glue code" for AI applications, bridging the gap between Python's ease of use and the need for speed in production AI systems.43</li>
+</ol>
+<h3 id="modules-96-100-capstone-project---the-topic-delver-agent"><a class="header" href="#modules-96-100-capstone-project---the-topic-delver-agent"><strong>Modules 96-100: Capstone Project - The "Topic Delver" Agent</strong></a></h3>
+<p>This final project synthesizes all the skills and components developed over the previous 95 days into a single, powerful, and fully automated "agent" that actively assists in the knowledge exploration process.</p>
+<ol start="96">
+<li><strong>Designing the "Topic Delver" Agent Workflow:</strong> A master GitHub Action will be designed. This workflow will trigger when a GitHub Issue on the "Topic Exploration" project board is moved into the "Researching" column. This project management action becomes the starting signal for the automated agent.1</li>
+<li><strong>Step 1: Initial Information Gathering (Python + OpenRouter):</strong> The workflow will trigger a Python script. This script will take the title of the GitHub Issue as input. It will use the OpenRouter API to query a powerful model, instructing it to perform a simulated web search to find 3-5 key articles, videos, or papers related to the topic.23</li>
+<li><strong>Step 2: Generating Foundational Questions (Python + Ollama):</strong> The script will then take the gathered resources and the issue summary and pass them to the custom "socratic-inquisitor" model running locally via Ollama. The model's task is to generate a list of 5-10 foundational questions that should be answered to gain a deep understanding of the topic.35</li>
+<li><strong>Step 3: Creating the "Topic Hub" Note:</strong> The Python script will then create a new Markdown file in the /notes directory. The filename will be based on the issue title. This file will be pre-populated using a template that includes the list of resources gathered by OpenRouter and the foundational questions generated by Ollama.</li>
+<li><strong>Step 4: Finalizing and Notifying (Rust, mdBook, GitHub API):</strong> The workflow will then execute the custom Rust foam-link-converter utility to ensure all links are correct. It will commit the new note file to the repository, which in turn triggers the mdBook deployment workflow. As a final step, the workflow will use the GitHub API to post a comment back to the original Issue, stating: "The Topic Hub has been created. You can view the note here:," completing the automated loop from task management to knowledge creation. This capstone project exemplifies a truly AI-augmented PKM system, where the system itself becomes an active partner in the process of learning and exploration.</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="4.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="DELIVERABLES.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="4.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="DELIVERABLES.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

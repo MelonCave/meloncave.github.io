@@ -1,0 +1,63 @@
+# ==========================================================
+# Common patterns for all environments
+# ==========================================================
+# OS generated files
+.DS_Store
+.env*
+.history/
+thumbs.db
+.vscode/
+.idea/
+
+# ==========================================================
+# Python
+# ==========================================================
+# Compiled Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Distribution packages
+dist/
+build/
+*.egg-info/
+
+# Logs and other temporary files
+*.log
+*.sqlite3
+
+# ==========================================================
+# Node.js
+# ==========================================================
+# Node package manager directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other generated files
+coverage/
+*.tgz
+.npm/
+
+# ==========================================================
+# Rust
+# ==========================================================
+# The Cargo build directory
+target/
+
+# Cargo metadata
+# Note: For executable applications, committing `Cargo.lock` is recommended for reproducible builds.
+# For libraries, it is often ignored to ensure compatibility with the latest dependencies.
+# To ignore:
+# Cargo.lock
+
+# IDE and editor specific files
+*.swp
+*.bak
