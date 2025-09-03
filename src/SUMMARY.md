@@ -3,7 +3,7 @@
 - [PKE Plan](Manifesto.md)
 
   - [Phase 1](1.md)
-      - [Module 1](./nested/001.md) ... Defining the Philosophy
+      - [Module 1](./nested/001.md) ... Describing/Defining The Project
       - [Module 2](./nested/002.md) ... 
       - [Module 3](./nested/003.md) ...   
       - [Module 4](./nested/004.md) ... 
@@ -37,7 +37,6 @@
     - [Resources](./3.Resources/Template.md)
     - [Archives](./4.Archives/Template.md)
   - [Roadmap](./nested/ROADMAP.md)
-  - [CloudKernel](./nested/CLOUDKERNEL.md)
   - [References](References.md)
       - [Resource Management Methodologies In Personal Knowledge Engineering](./nested/nested/001_1.md)
       - [Note Capturing Systems In Personal Knowledge Management](./nested/nested/001_2.md)
