@@ -1,4 +1,4 @@
-# **100-Day Plan: Personal Knowledge Engineering mdBook**
+# **100-Day Plan: Personal Knowledge Management mdBook**
 
 This document presents a 100-module strategic curriculum for a highly experienced multi-disciplinary systems engineer. It provides a systematic framework to accelerate autodidactic education, understand the details of research at the forefront of technological innovation, foster meaningful new professional connections and friendships across different disciplines, and enhance the capacity to contribute to significant work in extensible open-source technologies. The primary focus is on the journey of **continual learning and meeting new colleagues**, with technology serving as the enabling toolkit rather than the end goal itself.
 
