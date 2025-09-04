@@ -1,6 +1,6 @@
-# New Frontiers for Scientific Foundation Models
+# Domain-Specific Scientific Foundation Models For AI
 
-*We describe the motivation for our [curated portfolio of 100 Foundational Model Concepts](#table-2-curated-portfolio-of-100-foundational-model-concepts) that we are developing.*
+*We describe the motivation for our [curated portfolio of 100 Domain-Specific Foundational Model Concepts](#table-2-curated-portfolio-of-100-foundational-model-concepts) that we are developing.*
 
 The prevailing narrative of artificial intelligence has been dominated by foundation models that emulate human cognition, primarily through language and image generation. While transformative, this represents only the first wave of a far more profound technological revolution. This report posits that the next, and arguably more significant, frontier for foundation models lies in their application to fundamental scientific discovery. The emergence of these Scientific Foundation Models (SciFMs) is the catalyst that fully realizes the "Fourth Paradigm" of science—a new era where data-intensive, AI-driven exploration becomes a primary mode of discovery, standing alongside the traditional pillars of theory, experimentation, and simulation.
 

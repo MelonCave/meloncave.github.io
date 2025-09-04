@@ -34,7 +34,7 @@
   - [Methodology](./nested/METHODOLOGY.md)
     - [Projects](./1.Projects/Template.md)
     - [Areas](./2.Areas/Template.md)
-      - [Foundation Model Topics](./2.Areas/FoundationModelTopics.md) 
+      - [Domain-Specific Foundation Model Topics](2.Areas/98_DomainSpecificFoundationModelTopics.md) 
     - [Resources](./3.Resources/Template.md)
     - [Archives](./4.Archives/Template.md)
   - [Roadmap](./nested/ROADMAP.md)
