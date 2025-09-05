@@ -1,6 +1,6 @@
 # Summary
 
-- [PKE Plan](Manifesto.md)
+- [Program Yourself](Manifesto.md)
 
   - [Phase 1](1.md)
       - [Module 1](./nested/001.md) ... Describing/Defining The Project
