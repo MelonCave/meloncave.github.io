@@ -1,16 +1,14 @@
-### [1. Christian Spiritual Health](https://ancientguy.github.io/1.html)
+# 96 Soil Quality Laboratory
 
-As you improve your spiritual fitness, you will become much, Much, MUCH less anxious ... long-term massive reductions in anxiety is one way of knowing whether or not your approach is working, ie it's NOT like the bs euphoria you might feel when you go to some tent revival thing, like an EPIC retreat or experience some life-changing event, eg almost dying ... this is a permanent, long-term MASSIVE and constantly improving reduction in anxiety ... and with freedom from anxiety, comes the ability to get off the damned hamster wheel and the ability to make smarter, more stable decisions and to do less blatantly stupid physical stuff, ie like use a drink to relax OR swallow food to be some sort of social/emotional crutch OR think that you need a vacation. 
+Sequester Carbon As Life ... beyond Advanced Pyrolytics
 
-#### The **REASON** that SPIRITUAL fitness matters more than all other forms of fitness combined is that the Creator is still creating ... GOD NEVER WENT ON VACATION and He never will. You were created in God's image ... that means embrace the SUCK, embrace the disappoint from humans, embrace the humility ... embrace being unappreciated or taken for granted, because humans CANNOT understand the nature of God.
-
-That's what the resurrection of our Lord Jesus Christ was about. Christian spiritual health forms the cornerstone of holistic wellbeing, influencing all other aspects of life through prayer, scripture engagement, and spiritual practices. The questions explore deepening one's prayer life, developing meaningful scripture study habits, properly observing Holy Hour and keeping the Sabbath holy, and participating actively in Christian community in different ways. They prompt reflection on cultivating gratitude and worship as daily practices, serving others as an extension of faith, and embracing spiritual disciplines like fasting. The questions also address stewardship of resources, cultivating humility and repentance, and integrating physical wellbeing with spiritual practice. These reflective prompts encourage intentional spiritual development while recognizing the interconnected nature of spiritual health with other dimensions of life.
-
-## Foundational Principle: Technological-Spiritual Integration Framework: Engineering the Future of Consciousness Through Prayer, Service and Engineering
+## Foundational Principle: Engineering the Future of Consciousness and a Neuroengineering Approach To Ecoystems
 
 ## Core Philosophy
 
-This framework represents a 10-25 year forward-looking trajectory (with potential extension to 50-75 years) for integrating spiritual development with mastery of advanced technological systems, particularly artificial intelligence and MLOps infrastructure akin to the open source AI/ML Ops technology of RUN.ai. The underlying premise is that genuine spiritual growth in the coming decades will require both deeper and broader engagement with, rather than withdrawal from, humanity's technological evolution.
+WHY does carbon-based life matter? Because of it's connections, it's memory, it's ability to respond.
+
+This framework represents a 10-25 year planning phase of a longer forward-looking trajectory (with potential extension to 100-250 years) for integrating spiritual development with mastery of advanced technological systems, particularly artificial intelligence and MLOps infrastructure akin to the open source AI/ML Ops technology of RUN.ai. The underlying premise is that genuine spiritual growth in the coming decades will require both deeper and broader engagement with, rather than withdrawal from, humanity's technological evolution.
 
 ### Foundational Principles
 
@@ -225,4 +223,4 @@ The path to expanded consciousness and spiritual development now runs through te
 ### Quarter 4: Evolution and Planning
 1. System Evolution
    - Upgrade platforms
-   - Enhance capability for the point of serving the Lord.
+   - Enhance capabil

@@ -1,4 +1,6 @@
-99 Authoring Pre-Prints, Domain-Specific Podcasts, Podcastering
+99 Podcasts, Podcastering
+
+Intersects with intelligence gathering on Pre-Prints, Domain-Specific Knowledge Curation 
 
 Podcasts offer accessible formats for staying updated on important topics and exploring advanced concepts ... not just JRE, or the super popular podcasts, but material that is more specifically tailored to one's interests.
 
