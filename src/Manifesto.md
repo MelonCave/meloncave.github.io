@@ -1,6 +1,8 @@
 # Program Yourself
 
-This 100-day curriculum or Personal Knowledge Management (PKM) system is not entirely an end in and of itself ... although it could. The main intention at first for leveling up our existing PKM game and setting the stage for a Personal Knowledge Engineering system; PKM is more manual, perhaps a lot of *thinkering and fiddlehosery with the pipes* but hopefully an improvement in personal intelligence gathering using available information technologies and AI assistants as a stepping stone to PKE which is about developing systems and improving those technologies or attempting to master ML/AI op engineering skillsets.
+This 100-day curriculum or Personal Knowledge Management (PKM) system is not entirely an end in and of itself ... although it could be -- the point of this 100-day curriculum is to build a PKM mdBook based on the best [Building a Second Brain (BASB)](https://fortelabs.com/blog/basboverview/) thinking and best [implementations of PKM methodologies](./nested/nested/001_1.md#modern-digital-personal-knowledge-management-systems), which function quite well without any further automation or AI/ML ops engineering heavy lifting.
+
+The main intention at first for leveling up our existing PKM game and setting the stage for a Personal Knowledge Engineering system; PKM is more manual, perhaps a lot of *thinkering and fiddlehosery with the pipes* but hopefully an improvement in personal intelligence gathering using available information technologies and AI assistants as a stepping stone to PKE which is about developing systems and improving those technologies or attempting to master ML/AI op engineering skillsets.
 
 It's up to us to [**DEVELOP our Lives**]([1.md](https://ancientguy.github.io/1.html)) ... judiciously choosing and using the talents, tools, technologies that we have been blessed with ... we master and wield information technology in order to understand its danger and misuse, as we INFORM ourselves.
 
