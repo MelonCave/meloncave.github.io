@@ -2,7 +2,7 @@
 
 - [Program Yourself](Manifesto.md)
 
-  - [Phase 1](1.md)
+  - [Phase I](1.md)
       - [Module 1](./nested/001.md) ... Describing/Defining The Project
       - [Module 2](./nested/002.md) ... 
       - [Module 3](./nested/003.md) ...   
@@ -23,10 +23,9 @@
       - [Module 18](./nested/018.md) ... 
       - [Module 19](./nested/019.md) ...   
       - [Module 20](./nested/020.md) ... 
-  - [Phase 2](2.md)
-  - [Phase 3](3.md)
-  - [Phase 4](4.md)
-  - [Phase 5](5.md)
+  - [Phase II](2.md)
+  - [Phase III](3.md)
+  - [Phase IV](4.md)
 
 - [Deliverables](DELIVERABLES.md)
   - [Pipeline](./PIPELINE.md)
