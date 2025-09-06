@@ -1,4 +1,0 @@
-### [3. Cardio Training](https://ancientguy.github.io/3.html)
-
-The cardiovascular health questions explore one's evolving relationship with cardio exercise throughout different life stages and help identify enjoyable activities rather than mere obligations. They examine heart rate monitoring and training zones, fitness assessment methods, and strategies for effective progression in cardiovascular development. The section addresses integration with overall health factors like sleep, nutrition, and medication considerations, alongside environmental and contextual influences on cardiovascular training. Special attention is given to equipment choices, technology utilization, psychological aspects of motivation, and recovery strategies to optimize cardiovascular benefits. The questions culminate in developing a long-term vision for cardiovascular longevity, emphasizing reframing exercise from obligation to privilege and celebration of continuing capability.
-
