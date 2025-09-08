@@ -35,7 +35,7 @@
     - [Areas](./2.Areas/Template.md)
       - [Christian Spiritual Health](2.Areas/01ChristianSpiritualHealth.md)
       - [Strength Training](2.Areas/02StrengthTraining.md)
-      - [Cardio Training](2.Areas/03CardiovascularTraining.md)
+      - [Cardiovascular Training](2.Areas/03CardiovascularTraining.md)
       - [Nutrition And Gardening](2.Areas/04NutritionGardening.md)
       - [Developing Intelligence](2.Areas/05DevelopingIntelligence.md)
       - [Social Connection](2.Areas/06SocialConnection.md)
