@@ -1,5 +1,7 @@
 99 Podcastering and Outreach
 
+The POINT of podcastering for us is STRICTLY outreach to authors and researchers ... we sort of don't care about listeners, ie we don't mind if people listen, but the POINT of the podcast is strictly about OUTREACH ... thus about the *conversation*, **we do not do podcasts as entertainment for spectators.**
+
 Intersects with intelligence gathering on pre-prints, and domain-specific knowledge curation primarily because the intent of the podcast is not exactly to grow an audience OF SPECTATORS, but RATHER to develop connections with people who produce knowledge in a specific domain.
 
 Podcasts offer accessible formats for staying updated on important topics and exploring advanced concepts ... not like JRE, or the super popular podcasts that cater to spectators, but material that is more specifically tailored to one's personal knowledge interests ... the intent of podcastering in this fashion is definitely NOT about entertaining or informing an audience -- it's NOT about a professional performance ... rather the intention is about a CONVERSATION between equals.
