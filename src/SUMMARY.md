@@ -131,7 +131,7 @@
       - [SoilQuality](2.Areas/96SoilQualityLaboratory.md)
       - [Accelerated Negotiation](2.Areas/97Salebarn.md)
       - [Domain-Specific Foundation Model Topics](2.Areas/98DomainSpecificFoundationModelTopics.md)
-      - [Podcastering](2.Areas/99Podcastering.md)
+      - [Podcastering and Outreach](2.Areas/99Podcastering.md)
       - [Personal Knowledge Management Systems ](2.Areas/00PKMSystems.md)
     - [Resources](./3.Resources/Template.md)
     - [Archives](./4.Archives/Template.md)
