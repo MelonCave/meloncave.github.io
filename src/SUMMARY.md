@@ -38,7 +38,7 @@
       - [Cardio Training](2.Areas/03CardiovascularTraining.md)
       - [Nutrition And Gardening](2.Areas/04NutritionGardening.md)
       - [Developing Intelligence](2.Areas/05DevelopingIntelligence.md)
-      - [SocialConnection](2.Areas/06SocialConnection.md)
+      - [Social Connection](2.Areas/06SocialConnection.md)
       - [Rest, Recovery, Readiness](2.Areas/07RestRecoveryReadiness.md)
       - [Stress Optimization](2.Areas/08StressOptimization.md)
       - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
