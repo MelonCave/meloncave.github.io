@@ -129,7 +129,7 @@
       - [Hard Science Fiction](2.Areas/94HardScienceFiction.md)
       - [Theory of Inventive Problem Solving](2.Areas/95TIPS.md)
       - [SoilQuality](2.Areas/96SoilQualityLaboratory.md)
-      - [Accelerated Negotiation](2.Areas/97Salebarn.md)
+      - [Ludic Economics](2.Areas/97LudicEconomics.md)
       - [Domain-Specific Foundation Model Topics](2.Areas/98DomainSpecificFoundationModelTopics.md)
       - [Podcastering and Outreach](2.Areas/99Podcastering.md)
       - [Personal Knowledge Management Systems ](2.Areas/00PKMSystems.md)
