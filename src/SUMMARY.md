@@ -127,7 +127,7 @@
       - [92]()
       - [Asynchronoous Workflow](2.Areas/93AsynchronoousWorkflow.md)
       - [Hard Science Fiction](2.Areas/94HardScienceFiction.md)
-      - [Theory of Inventive Problem Solving](2.Areas/95TIPS.md)
+      - [Second Mover Advantage](2.Areas/95TIPS.md)
       - [SoilQuality](2.Areas/96SoilQualityLaboratory.md)
       - [Ludic Economics](2.Areas/97LudicEconomics.md)
       - [Domain-Specific Foundation Model Topics](2.Areas/98DomainSpecificFoundationModelTopics.md)
