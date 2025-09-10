@@ -1,5 +1,7 @@
 # Program Yourself
 
+*You can follow the daily notes in our [journal](https://github.com/AncientGuy/PKM/tree/main/journal) as we go through the 100-day process of developing this Personal Knowledge Management (PKM) system.*
+
 It is up to each of us to [**DEVELOP our Lives**](https://ancientguy.github.io/) ...  ...  judiciously, but aggressively USING the talents, tools, technologies that we have been blessed with ... thus, **programming ourselves** is a matter of expressing gratitude -- we do it in order to continue to [**more fully develop the richness of our lives**](https://ancientguy.github.io/), to take responsiblity for programming ourselves, mastering and wielding information technology in order to understand its danger and misuse, as we INFORM ourselves. Many who just consume content or food are VERY EFFECTIVELY being weaponized to be weak, hyper-defensive, reactionary liabilities to their communities, their circles of friends or professional colleagues, their families, themselves.
 
 The first 100-day push of our preparation for this involved understanding how we might improve in ten different foundational facets, necessary to sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
