@@ -34,7 +34,10 @@ build/
 # Node.js
 # ==========================================================
 # Node package manager directories
-node_modules/
+node_modules
+.DS_Store
+.vscode-test/
+*.vsix
 
 # Logs
 npm-debug.log*
