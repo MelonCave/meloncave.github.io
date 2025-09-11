@@ -1,4 +1,4 @@
-## 22 Economics 
+## arXiv Economics 
 
 econ.EM | Econometrics | Econometric theory and methods. Includes computational methods when applied to economic problems and data. The area focuses on estimation, inference, and modeling in economics. |
 

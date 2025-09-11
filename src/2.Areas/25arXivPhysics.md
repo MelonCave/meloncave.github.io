@@ -1,4 +1,4 @@
-## 25 Physics
+## arXiv Physics
 
 astro-ph.CO | Cosmology and Nongalactic Astrophysics | Phenomenology of early universe, cosmic microwave background, cosmological parameters, primordial element abundances, extragalactic distance scale, large-scale structure of the universe. Groups, clusters, and superclusters; large scale flow. Damped Lyman-alpha systems. |
 

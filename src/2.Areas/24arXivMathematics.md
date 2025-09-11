@@ -1,4 +1,4 @@
-## Mathematics
+# arXiv Mathematics
 
 math.AC | Commutative Algebra | Commutative rings, modules, ideals, homological algebra, computational aspects, invariant theory, connections to algebraic geometry and combinatorics. The area focuses on structure and properties of commutative algebraic objects. Key topics include ideal theory and module theory. |
 
