@@ -22,7 +22,7 @@
       - [Stress Optimization](2.Areas/08StressOptimization.md)
       - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
       - [Mobility, Coordination](2.Areas/10MobilityCoordination.md)
-      - [World's Fair of AI](2.Areas/11WorldsFairofAI.md)
+      - [AI Reading List](2.Areas/11AIReadingList.md)
       - [12](2.Areas/12.md)
       - [13](2.Areas/13.md)
       - [14](2.Areas/14.md)
