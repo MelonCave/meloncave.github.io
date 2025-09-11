@@ -1,6 +1,6 @@
 ## **Phase I: Foundations and Environment Setup (Days 1-20)**
 
-This initial phase is dedicated to constructing a robust "mission control" for the entire 100-day project. The objective is to establish a fully automated, version-controlled, and meticulously structured environment before commencing any significant feature development. This front-loading of infrastructure work is a critical investment that ensures stability and efficiency over the long term. A key principle of this phase is to apply the tools of the project *to* the project itself, creating a virtuous cycle of learning and practical application from the very first day.
+This [initial phase](https://github.com/orgs/AncientGuy/projects/1/views/4) is dedicated to constructing a robust "mission control" for the entire 100-day project. The objective is to establish a fully automated, version-controlled, and meticulously structured environment before commencing any significant feature development. This front-loading of infrastructure work is a critical investment that ensures stability and efficiency over the long term. A key principle of this phase is to apply the tools of the project *to* the project itself, creating a virtuous cycle of learning and practical application from the very first day.
 
 ### **Week 1: Project Scaffolding (Modules 1-7)**
 
