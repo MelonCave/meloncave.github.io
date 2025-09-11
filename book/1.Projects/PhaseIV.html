@@ -1,0 +1,265 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Phase IV - 100-Day Personal Knowledge Management Curriculum</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">100-Day Personal Knowledge Management Curriculum</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="phase-iv-hyper-automation-and-advanced-workflows-modules-61-80"><a class="header" href="#phase-iv-hyper-automation-and-advanced-workflows-modules-61-80"><strong>Phase IV: Hyper-Automation and Advanced Workflows (Modules 61-80)</strong></a></h2>
+<p><em>Focus: Creating proactive, fully automated pipelines that require minimal manual intervention. This phase builds the "intelligent nervous system" of the PKM.</em></p>
+<h3 id="modules-61-70-advanced-github-actions-workflows"><a class="header" href="#modules-61-70-advanced-github-actions-workflows"><strong>Modules 61-70: Advanced GitHub Actions Workflows</strong></a></h3>
+<p>This section focuses on creating a sophisticated, multi-stage GitHub Action that fully automates the process of content enrichment, connecting the file system, Python scripts, AI models, and the deployment pipeline.</p>
+<ol start="61">
+<li><strong>Designing the "Content Enrichment" Workflow:</strong> A new, more advanced GitHub Actions workflow will be designed. The goal is to create a system that automatically processes a new note, enriches it with AI-generated content, and deploys the result without any manual steps.</li>
+<li><strong>Triggering Workflows with Path Filters and Tags:</strong> The workflow will be configured to trigger conditionally. It will run on pushes to the main branch but only when files in the /notes directory are modified. A convention will be established where adding a specific tag, like #summarize, to a note's frontmatter signals the workflow to process that specific file.</li>
+<li><strong>Workflow Step: Identifying Target Files:</strong> The first step in the Action's job will be to identify which files have been changed in the latest commit and need processing. A simple shell script or a dedicated GitHub Action can be used to get the list of modified files.</li>
+<li><strong>Workflow Step: Running the AI Python Script:</strong> The workflow will then set up the Python environment and run the AIManager script developed in Phase III. The script will be called with the path to the modified file as an argument.</li>
+<li><strong>Workflow Step: Committing Changes Back to the Repository:</strong> After the Python script runs and modifies the note file (e.g., by adding a summary), the GitHub Action must commit this change back to the repository. This requires configuring Git within the action, setting a user and email, and using git commit and git push. A special commit message like "chore(AI): Add summary to [filename]" will be used to denote automated changes.</li>
+<li><strong>Handling Recursive Workflow Triggers:</strong> A critical challenge in this setup is that the workflow pushes a commit, which would normally trigger the workflow again, creating an infinite loop. This will be prevented by adding a condition to the commit step or the workflow trigger to ignore commits made by the Actions bot itself (e.g., by checking the commit message).</li>
+<li><strong>Chaining Workflows:</strong> Instead of putting everything in one massive file, the content enrichment workflow will be configured to trigger the existing mdBook deployment workflow upon its successful completion. This can be done using the workflow_run event or by using a reusable "callable" workflow, which is a more modern approach.</li>
+<li><strong>Adding an Issue Commenting Step:</strong> To provide feedback, a final step will be added to the workflow. Using an action like peter-evans/create-or-update-comment, the workflow will find the corresponding GitHub Issue for the topic and post a comment indicating that the note has been automatically updated and a new version has been deployed, including a link to the published page.</li>
+<li><strong>Full End-to-End Test:</strong> A full test of the pipeline will be conducted. A new note will be created locally, tagged for summarization, and pushed to GitHub. The process will be monitored in the GitHub Actions tab, from the initial trigger to the AI processing, the commit back, the mdBook deployment, and the final comment on the issue.</li>
+<li><strong>Refactoring for Reusability:</strong> The workflow will be refactored to make it more modular. The Python script execution and the mdBook deployment steps will be broken into separate, reusable composite actions or callable workflows, making the main workflow file cleaner and easier to maintain.7</li>
+</ol>
+<h3 id="modules-71-75-local-llms-with-ollama"><a class="header" href="#modules-71-75-local-llms-with-ollama"><strong>Modules 71-75: Local LLMs with Ollama</strong></a></h3>
+<p>This section introduces local large language models using Ollama, adding a powerful, private, and cost-effective tier to the AI strategy.35</p>
+<ol start="71">
+<li><strong>Installing and Configuring Ollama:</strong> Ollama will be installed on the local machine. The command-line interface will be used to pull down a versatile, medium-sized model like Llama 3 (ollama pull llama3) or a smaller, efficient model like Phi-2 (ollama pull phi-2).35</li>
+<li><strong>Interacting with Local Models via CLI and API:</strong> The first interactions will be through the command line using ollama run llama3. This provides a feel for the model's performance and personality. Subsequently, the Ollama REST API, which runs locally on port 11434, will be explored. A tool like curl or Postman will be used to send requests to the API, demonstrating how to interact with the local model programmatically.36</li>
+<li><strong>Creating a Custom Model with a Modelfile:</strong> To tailor a model for specific PKM tasks, a Modelfile will be created.37 This file defines a custom model based on a parent model (e.g.,<br />
+FROM llama3). It will include a SYSTEM prompt to give the model a specific persona, such as a "Socratic Inquisitor" whose role is to respond to any text by generating three probing questions to deepen understanding. Parameters like temperature can also be set to control creativity.38</li>
+<li><strong>Building and Running the Custom Model:</strong> The ollama create command will be used to build the custom model from the Modelfile, giving it a unique name (e.g., socratic-inquisitor). This new model will then be available to run via ollama run socratic-inquisitor and through the API.37</li>
+<li><strong>Integrating Ollama into the Python AI Toolkit:</strong> The AIManager Python module will be updated to include Ollama as a new AI provider. A new function will be added that makes API calls to the local Ollama server. The routing logic will be updated to use the local model for specific tasks, such as brainstorming or generating questions, officially adding the "Tier 1 (Local)" capability to the system.36</li>
+</ol>
+<h3 id="modules-76-80-containerization-with-docker"><a class="header" href="#modules-76-80-containerization-with-docker"><strong>Modules 76-80: Containerization with Docker</strong></a></h3>
+<p>To ensure the PKM system's environment is consistent, portable, and reproducible, this section introduces containerization using Docker. This brings professional DevOps practices to the personal project.</p>
+<ol start="76">
+<li><strong>Introduction to Docker Concepts:</strong> The core concepts of Docker will be reviewed: images, containers, Dockerfiles, and volumes. The benefits of containerization for creating isolated and predictable environments will be discussed.</li>
+<li><strong>Running Ollama in a Docker Container:</strong> As a first practical step, instead of running Ollama directly on the host machine, it will be run inside a Docker container using the official ollama/ollama image.35 This involves running the container, mapping the necessary ports, and using a volume to persist the downloaded models, ensuring they are not lost when the container stops.</li>
+<li>Writing a Dockerfile for the Python Scripts: A Dockerfile will be written for the PKM's Python automation tools. This file will define a custom image that:<br />
+a. Starts from a base Python image.<br />
+b. Copies the requirements.txt file and installs the dependencies.<br />
+c. Copies the /scripts directory into the image.<br />
+d. Sets up any necessary environment variables.</li>
+<li><strong>Building and Running the Custom Python Container:</strong> The docker build command will be used to create an image from the Dockerfile. Then, docker run will be used to start a container from this image and execute one of the automation scripts, demonstrating that the entire toolchain can run in a self-contained environment.</li>
+<li><strong>Exploring Other Self-Hosted PKM Tools:</strong> Docker makes it easy to experiment with other open-source tools. This module involves exploring the Docker images for other self-hosted PKM platforms like Memos or Siyuan.39 By running these tools locally in containers, new ideas and features can be discovered and potentially incorporated into the custom PKM system, all without polluting the host machine with new dependencies.</li>
+</ol>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../1.Projects/PhaseIII.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../2.Areas/Template.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../1.Projects/PhaseIII.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../2.Areas/Template.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

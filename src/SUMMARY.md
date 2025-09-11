@@ -2,16 +2,15 @@
 
 - [Program Yourself](Manifesto.md)
 
-  - [Phase I](1.md)
-  - [Phase II](2.md)
-  - [Phase III](3.md)
-  - [Phase IV](4.md)
-
 - [Deliverables](DELIVERABLES.md)
   - [Pipeline](./PIPELINE.md)
   - [Research Dashboard](RESEARCH_DASHBOARD.md)
   - [Methodology](./nested/METHODOLOGY.md)
     - [Projects](./1.Projects/Template.md)
+      - [Phase I](1.Projects/PhaseI.md)
+      - [Phase II](1.Projects/PhaseII.md)
+      - [Phase III](1.Projects/PhaseIII.md)
+      - [Phase IV](1.Projects/PhaseIV.md)
     - [Areas](./2.Areas/Template.md)
       - [Christian Spiritual Health](2.Areas/01ChristianSpiritualHealth.md)
       - [Strength Training](2.Areas/02StrengthTraining.md)
