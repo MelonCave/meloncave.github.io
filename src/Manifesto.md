@@ -29,275 +29,351 @@ The real point, is not so much about the tech-assisted development of these capa
 
 **The real point or true objective of all this, is not so much about the tech-assisted development of these capablities, rather, it is a meta-objective, which is about stretching or extending human cognitive capabilities *with these technologies* for proficiencies necessary to pursue even more advanced levels of knowledge engineering.**
 
-# **The Agentic Knowledge Architect: A 100-Day Plan for AI-Driven Personal Knowledge Management**
+# **The 100-Day Architect: A Blueprint for an AI-Augmented Personal Knowledge Management System**
 
-At first, the main intent was simply to level up our existing personal knowledge game and set the stage for deep dives into knowledge engineering skills. The FIRST phase of PKM is more manual, perhaps a lot of *thinkering and fiddlehosery with the info plumbing's pipes and porcelain* ... thinkering = cognitive architecture tweaking based on awareness of how one thinks/learns ... pipes = low-level commands primarily intended for scripting or behind scenes AI/ML operations and data wrangling ... porcelain = high-level, user-friendly menus/commands designed for direct immediate human annotation and newsfeeds ... but if we can do this successfully and well, an improvement in the more hands on side of personal intelligence gathering using available information technologies and AI assistants will serve as a stepping stone to PKE which is about developing systems and improving those technologies or attempting to master ML/AI op engineering skillsets.
+You can, and probably ***should***, use your own preferences and needs for a PKM to develop a better system for you for accomplishing this objective ... the important thing however, is to just get started with some sort of viable 100-day plan and then just steadily work at it. You can tear the plan up and start over after 30 days, but it's important to just get a plan to together that breaks down the work into manageable daily chunks and then get after it. 
 
-## **Introduction: The Shift to Agentic Development**
+## **Introduction: The PKM as a Development Project**
 
-This 100-day plan outlines a comprehensive journey to overhaul a Personal Knowledge Management (PKM) system, leveraging the power of agentic AI. This endeavor is framed not as a traditional software project but as a practical immersion into a new paradigm: agentic software development.1 The traditional, imperative model of programming, where a developer explicitly defines every instruction, is giving way to an autonomous model. In this new approach, the developer's role evolves from that of a programmer to an
+This report outlines a 100-day, 100-module plan for the systematic overhaul and AI-augmentation of a Personal Knowledge Management (PKM) system. The core philosophy of this endeavor is to treat the PKM not as a static repository of notes, but as a dynamic, evolving software project. This approach transforms the act of knowledge management from passive collection into an active process of system architecture, development, and continuous improvement. The 100-day journey is structured as a comprehensive development lifecycle, progressing from foundational infrastructure setup to the implementation of advanced, custom-built, AI-driven features.
 
-**AI Conductor** or **System Architect**. The primary task becomes defining high-level goals, establishing objectives, and setting appropriate boundaries within which an intelligent agent can operate autonomously to determine the specific implementation path.3
+The architecture of this system is organized into five distinct phases, each building upon the capabilities established in the previous one. This creates a layered "stack" of functionality, starting with a solid, version-controlled foundation and culminating in a highly intelligent, automated environment for learning and exploration.
 
-The success of this 100-day project is contingent upon mastering the art of high-level task decomposition and fostering effective human-AI collaboration. This plan serves as a curriculum for that mastery, using the construction of a world-class PKM system as the practical application. The agentic assistant, exemplified by the open-source Cline extension for VS Code, will not merely assist with code completion but will function as an active development partner, capable of creating files, running terminal commands, and executing complex, multi-step tasks with a degree of autonomy.2
+A central architectural decision underpins this entire plan: the positioning of the GitHub ecosystem as the core operating system for the PKM. The user's goal to gain experience with GitHub Actions, Issues, Projects, and Discussions is not treated as a separate learning objective but as the strategic foundation for the entire system.1 This unified platform provides the necessary components to manage a complex, multi-tool environment. GitHub Issues will serve as the primary interface for managing the lifecycle of each knowledge topic, from initial idea to completed exploration.3 GitHub Projects will provide the high-level roadmaps and Kanban boards for tracking progress across all learning endeavors.5 Most critically, GitHub Actions will function as the system's central automation engine—its "kernel"—orchestrating every other component, from note processing and AI analysis to the final publication of the knowledge base.1 This integrated approach ensures that all disparate tools work in concert, managed by a single, powerful, and version-controlled platform.
 
-The technology stack has been selected to create a cohesive, integrated ecosystem where each component serves a distinct strategic purpose. Cline acts as the agentic engine, VS Code provides the integrated development environment (IDE), and GitHub serves as the platform for version control, continuous integration/continuous deployment (CI/CD), and project management. The PKM itself will be built upon mdBook, a static site generator implemented in Rust, with the FOAM extension's conventions providing the framework for creating a networked knowledge graph.6 Extensibility will be achieved through Rust for high-performance
+### **Technology Stack and Phased Integration**
 
-mdBook preprocessors and Python for its rich ecosystem of data science and AI libraries. This strategic alignment of technologies is detailed in the table below.
+The following table provides a strategic overview of the technologies to be integrated throughout this 100-day project. It outlines each component's primary role within the PKM ecosystem and the specific phases during which it will be introduced and mastered. This serves as a high-level roadmap, clarifying not only *what* will be learned, but *when* and *why* it is being introduced into the system architecture.
 
-| Component | Category | Strategic Role in Project |
+| Technology | Primary Role | Primary Phases |
 | :---- | :---- | :---- |
-| **Cline** | Agentic Coding Assistant | The core "builder" that autonomously executes development tasks based on high-level prompts.4 |
-| **VS Code** | Integrated Development Environment | The central "workshop" where all development, agent interaction, and debugging occurs.5 |
-| **GitHub** | Collaboration & CI/CD Platform | The "scaffolding" for version control (Repo), automated deployment (Pages, Actions), and task management (Projects).11 |
-| **mdBook** | Static Knowledge Base Generator | The foundational technology for creating a modern, searchable, and web-accessible book from Markdown files.6 |
-| **FOAM** | Note-Linking Framework | The conceptual model and syntax (\[\[wikilinks\]\]) for creating a networked, Zettelkasten-style knowledge graph.7 |
-| **Rust** | Systems Programming Language | The language for building high-performance, custom mdBook preprocessors to extend the PKM's core functionality.13 |
-| **Python** | Data Science & Scripting Language | The language for advanced features like Natural Language Processing (NLP), search indexing, and extending Cline's capabilities via MCP.16 |
-| **OpenRouter** | LLM API Gateway | A unified interface to access a wide variety of Large Language Models (LLMs), enabling flexibility and cost management.5 |
-| **Docker** | Containerization Platform | A tool to create a reproducible development and build environment, ensuring consistency and simplifying setup.20 |
-| **Google Jules** | Comparative Agentic Platform | An alternative agentic system for a comparative analysis of different development workflows and architectures.22 |
-| **Modular Platform** | High-Performance AI Platform | An exploratory platform (including Mammoth, Mojo, MAX) for investigating future performance optimizations for AI/ML tasks.24 |
+| **GitHub (Repo, Issues, Projects)** | PKM Operating System, Task & Knowledge Lifecycle Management | I, II, IV, V |
+| **GitHub Actions** | Central Automation & CI/CD Engine | I, IV, V |
+| **VSCode** | Primary Development & Note-Authoring Environment | I |
+| **Foam Extension** | Note Creation, Bi-directional Linking, Graph Visualization | I, II |
+| **mdBook** | Static Site Generation & Public Knowledge Base Publishing | I, II, IV |
+| **Python** | Automation Scripting, API Integration, Backend Logic | II, III, IV |
+| **OpenRouter** | Unified AI Gateway for Accessing Multiple LLM Providers | III, IV, V |
+| **Google AI Studio** | Rapid AI Prompt Prototyping & Experimentation | III |
+| **Hugging Face Transformers** | Specialized NLP Models (e.g., Summarization) | III |
+| **Ollama** | Local, Private Large Language Model (LLM) Inference | IV, V |
+| **Docker** | Containerization for Reproducible Environments & Services | IV |
+| **Rust** | High-Performance Custom Tooling & System Utilities | V |
+| **Modular Platform (Mojo, MAX)** | High-Performance AI Inference & Programming Exploration | V |
 
-## **Phase I: Foundations and Environment Setup (Days 1-20)**
+---
 
-This initial phase is dedicated to constructing a robust "mission control" for the entire 100-day project. The objective is to establish a fully automated, version-controlled, and meticulously structured environment before commencing any significant feature development. This front-loading of infrastructure work is a critical investment that ensures stability and efficiency over the long term. A key principle of this phase is to apply the tools of the project *to* the project itself, creating a virtuous cycle of learning and practical application from the very first day.
+## **Phase I: The Developer's Knowledge Foundation (Modules 1-20)**
 
-### **Week 1: Project Scaffolding (Modules 1-7)**
+*Focus: Establishing a rock-solid, automated foundation for the PKM. This phase is about building the "scaffolding" and the core "DevOps" pipeline for your knowledge.*
 
-The first week focuses on creating the digital skeleton of the project. This involves initializing the code repository, setting up the project management tools, and performing an initial manual deployment to understand the end-to-end process.
+### **Modules 1-5: Project Scaffolding with GitHub**
 
-#### **Modules 1-2: GitHub Repository and Project Initialization**
+The initial modules focus on establishing the project's central repository, which will serve as the single source of truth for all knowledge, code, and configuration. This is the foundational step in treating the PKM as a formal development project.
 
-The foundation begins with a new GitHub repository. To accelerate the setup of the PKM's structure, the project will be bootstrapped using the foam-template.7 This template provides a pre-configured VS Code workspace with recommended extensions (
+1. **Repository Creation and Initialization:** A new private repository will be created on GitHub. This repository will house the entire PKM system, including Markdown notes, automation scripts, configuration files, and the mdBook source. Initializing the repository with a README.md file, a .gitignore file (configured for Python, Node.js, and Rust build artifacts), and a clear directory structure (/notes, /scripts, /book\_src) is the first task.  
+2. **GitHub Projects for Meta-Tracking:** Before managing knowledge topics, the system must manage itself. A GitHub Project will be created to track the progress of this 100-day plan.5 This project will be configured with a Kanban board layout, with columns such as "To Do," "In Progress," and "Done".2 This provides immediate, practical experience with the project management tools that will later be applied to learning topics.  
+3. **Structuring the 100-Day Plan as GitHub Issues:** Each of the 100 modules in this plan will be created as a distinct GitHub Issue.3 This modularizes the work and allows for detailed tracking. Using GitHub's issue creation features, each module can be documented, discussed, and managed individually.2  
+4. **Custom Fields and Project Views:** The GitHub Project will be enhanced with custom fields to add rich metadata to each module's Issue. Fields such as "Phase" (e.g., "I: Foundation"), "Status" (e.g., "Not Started"), and "Technology" (e.g., "GitHub Actions") will be created.3 This allows for the creation of powerful, filtered views, such as a roadmap layout to visualize the timeline or a table view to group modules by technology.2  
+5. **Establishing Branching Strategy and Workflow:** A simple Git branching strategy, such as GitFlow or a main-branch workflow, will be established. All work will be done on feature branches and merged into the main branch via pull requests. This enforces good version control hygiene from the outset and prepares the project for automated checks and workflows that trigger on pull requests.3
 
-.vscode/extensions.json) and settings (.vscode/settings.json) optimized for knowledge management tasks, such as Markdown All In One and Prettier.28 Within this repository, a new
+### **Modules 6-10: Mastering the VSCode \+ Foam Environment**
 
-mdBook project will be initialized in a dedicated /book subdirectory, creating the initial src directory and SUMMARY.md file that will house the PKM content.6
+With the repository structured, the focus shifts to configuring the local development and note-taking environment. VSCode, augmented with the Foam extension, provides a powerful, free, and open-source platform for creating and navigating a graph-based knowledge base.8
 
-#### **Modules 3-5: Mission Control with GitHub Projects**
+6. **VSCode and Foam Workspace Setup:** The process begins by cloning the newly created GitHub repository to a local machine. Following the official Foam documentation, the foam-template project will be used to scaffold the necessary workspace configuration within the repository.8 This involves setting up the  
+   .vscode/settings.json and .vscode/extensions.json files, which define the workspace's behavior and recommend essential extensions.8  
+7. **Core Foam Features \- Linking and Graphing:** This module is a deep dive into Foam's core functionality. The focus will be on creating atomic notes—single files dedicated to a single topic—and connecting them using \[\[wikilinks\]\].9 Practical exercises will involve creating a few sample notes and linking them to observe how the knowledge graph is built. The  
+   Foam: Show Graph command will be used to visualize these connections, providing a tangible representation of the relationships between ideas.9  
+8. **Navigation and Discovery with Backlinks:** Understanding connections is a two-way street. This module will explore Foam's backlinking capabilities. The Backlinks Panel will be used to see which other notes reference the currently active note, providing crucial context and aiding in the discovery of emergent themes and relationships within the knowledge base.9  
+9. **Installation and Review of Recommended Extensions:** The foam-template recommends a set of VSCode extensions to enhance the Markdown editing experience.8 This module involves installing and reviewing this list, which typically includes tools like  
+   Markdown All In One, Prettier for formatting, and extensions for Mermaid diagrams and emoji support.12 Understanding the role of each extension is key to customizing the environment for maximum productivity.  
+10. **Customizing VSCode Settings:** The default Foam settings provide a great starting point, but personalization is key. This module involves editing the .vscode/settings.json file to tweak the user experience. This could include changing editor fonts, setting rulers for line length, or customizing how wikilinks are rendered in the editor, ensuring the environment is perfectly tailored to the user's workflow.8
 
-To effectively manage a 100-day endeavor, this entire plan will be translated into a functional project board using GitHub Projects. This approach makes the project plan itself a dynamic, version-controlled artifact. A new GitHub Project will be created, and an issue will be opened for each of the 100 modules. These issues will be organized into phases and categorized using custom fields to track status (e.g., To Do, In Progress, Done), module type (e.g., Setup, Rust, Python, Exploration), and estimated complexity. This immediate application of GitHub Projects transforms project management from a peripheral task into a core component of the learning experience.
+### **Modules 11-15: mdBook Configuration and Initial Build**
 
-#### **Modules 6-7: First Deployment \- Manual CI/CD**
+The next step is to configure mdBook, the Rust-based tool that will transform the collection of Markdown notes into a clean, searchable, and publishable static website.14
 
-Before automating the deployment process, it is crucial to understand the underlying mechanics. This module involves a manual deployment of the nascent mdBook to GitHub Pages. The repository settings will be configured to deploy from a specific branch, typically gh-pages. The mdbook build command will be run locally to generate the static site in the book/book directory. The contents of this output directory will then be manually committed and pushed to the gh-pages branch. This exercise provides a clear baseline understanding of the build artifacts and the deployment mechanism that will be automated in a later phase.11
+11. **Installing mdBook and Initializing the Book:** mdBook will be installed using Rust's package manager, Cargo. Once installed, the mdbook init command will be run within the /book\_src directory of the repository. This command creates the initial file structure for the book, including the src directory for content and the all-important SUMMARY.md file, which defines the book's navigation structure.14  
+12. **Configuring book.toml:** The book.toml file is the heart of an mdBook project's configuration. This module involves a thorough exploration of its key options.15 The book's title and author will be set, and the HTML renderer options will be configured. This includes enabling or disabling section labels, adding a link to the source GitHub repository, and selecting a default theme.15  
+13. **Structuring the SUMMARY.md:** The SUMMARY.md file dictates the table of contents and navigation hierarchy of the final website. This module will focus on understanding its syntax. A basic structure will be created, linking to the sample notes created in the Foam modules. This establishes the initial organization of the public-facing knowledge base.  
+14. **Enabling and Configuring Search:** One of mdBook's most powerful features is its built-in, client-side search functionality. In the book.toml file, the search feature will be explicitly enabled and configured.15 Options like  
+    limit-results, use-boolean-and, and boost-title will be explored to understand how to fine-tune the search experience for users of the knowledge base.15  
+15. **Performing the First Manual Build:** With the initial configuration in place, the mdbook build command will be run from the command line. This compiles the Markdown files from the src directory into a static HTML site in a new /book directory. The resulting site will be opened locally in a browser to verify that the configuration is correct, the links work as expected, and the overall structure is sound. This manual build serves as the baseline for the automated pipeline to come.16
 
-### **Week 2: Agent Installation and First Contact (Modules 8-14)**
+### **Modules 16-20: The First Automated CI/CD Pipeline**
 
-With the project structure in place, the second week is dedicated to installing, configuring, and establishing a working relationship with the core agentic assistant, Cline.
+This is the capstone of Phase I, where the manual processes of building and deploying are automated using GitHub Actions. This creates a Continuous Integration/Continuous Deployment (CI/CD) pipeline that ensures the published knowledge base is always in sync with the latest notes.17
 
-#### **Modules 8-10: Installing and Configuring Cline**
+16. **Creating the First Workflow File:** A new workflow file will be created at .github/workflows/deploy-book.yml. This YAML file will define the automation steps. The workflow will be configured to trigger on a push event to the main branch, meaning it will run automatically every time new changes are committed.16  
+17. **Configuring the GitHub Actions Job:** The workflow will contain a single job, build-and-deploy. This job will be configured to run on an ubuntu-latest runner. The first steps within the job will be to use the actions/checkout action to check out the repository's code onto the runner.17  
+18. **Installing mdBook on the Runner:** To build the book, mdBook must be available on the CI runner. The most efficient method is to download a pre-compiled binary from the GitHub Releases page, which is fast and avoids the need to install the entire Rust toolchain.16 A workflow step will use  
+    curl to download and extract the mdBook executable.16  
+19. **Building and Deploying to GitHub Pages:** The core of the workflow involves two steps. First, a step will run the mdbook build command, generating the static site in the /book directory. Second, a community action like peaceiris/actions-gh-pages will be used to deploy the contents of the /book directory to a special gh-pages branch in the repository.18 Repository settings will be configured to enable GitHub Pages and set the  
+    gh-pages branch as the deployment source.19  
+20. **Identifying the "Impedance Mismatch" and a Manual Workaround:** Upon the first successful deployment, a critical challenge will become apparent. The \[\[wikilinks\]\] used for fluid navigation within Foam and VSCode are not standard Markdown links and will be broken in the final mdBook output.8 This "impedance mismatch" between the authoring environment and the publishing tool is a central technical hurdle of the chosen stack. Foam provides a command,  
+    Foam: Create markdown references for \[\[wikilinks\]\], which converts these links into a format that mdBook can understand.9 This module concludes by documenting this issue and establishing the manual execution of this command as a temporary workaround. This deliberate identification of a problem creates a clear and compelling motivation for developing a more sophisticated, automated scripting solution in later phases, transforming a potential frustration into a core learning objective of the 100-day plan.
 
-The primary tool for this project, the Cline VS Code extension, will be installed from the marketplace.4 Configuration is the next critical step. An API key from OpenRouter will be generated and added to the Cline settings.5 OpenRouter serves as a powerful API gateway, providing access to a multitude of LLMs from various providers like Anthropic, Google, and OpenAI.18 Initial experiments will be conducted using different models, such as the powerful
+---
 
-anthropic/claude-3.5-sonnet for complex tasks and the free-tier google/gemini-2.0-flash-exp:free for simpler operations, to gain an intuitive understanding of the cost-performance trade-offs inherent in different models.5
+## **Phase II: Architecting the Knowledge Graph (Modules 21-40)**
 
-#### **Modules 11-14: Mastering Cline's Core Interactions**
+*Focus: Developing a systematic approach to knowledge capture, organization, and presentation. This phase moves from "getting the tools to work" to "using the tools effectively."*
 
-Effective use of an agentic assistant requires learning its interaction patterns. This period will be spent practicing fundamental tasks. Simple, declarative prompts will be used, such as: "Create a new file named TODO.md and add three items," or "Read the README.md file and provide a one-paragraph summary." A crucial distinction to master is the difference between Cline's two primary modes: "Plan" mode, which allows for read-only exploration and task decomposition, and "Act" mode, which executes the proposed changes.33 The "Auto-approve" settings will be explored to understand the balance between the rapid, fluid experience of "vibe coding" and the safety and control of manually approving each step.33 Finally, Cline's ability to interact with the integrated terminal will be tested by instructing it to run commands like
+### **Modules 21-25: Knowledge Ingestion Framework**
 
-ls \-R to recursively list the project's file structure, confirming its ability to observe and interact with its environment.4
+With the foundational infrastructure in place, the focus now shifts to establishing a structured process for exploring the 150 bucket-list topics. This involves leveraging GitHub's project management tools to create a systematic knowledge ingestion pipeline.
 
-### **Week 3: Full Automation with GitHub Actions (Modules 15-20)**
+21. **Creating the "Topic Exploration" Project Board:** A new GitHub Project will be created specifically for managing the 150 learning topics. This project will be configured as a Kanban board, providing a visual workflow for tracking topics as they move from idea to exploration.2  
+22. **Designing a Standardized Issue Template for Topics:** To ensure consistency, a GitHub Issue template will be designed for new topics. This template, stored as a Markdown file in the .github/ISSUE\_TEMPLATE directory, will pre-populate new issues with a standardized structure.3 Sections will include "Topic Summary," "Key Questions to Answer," "Initial Resources," and "Potential Connections," guiding the initial phase of research for any new subject.  
+23. **Populating the Backlog with Initial Topics:** As a practical exercise, the first 10-15 topics from the user-provided list of 150 will be created as new Issues using the template designed in the previous module. These issues will form the initial "backlog" in the "Topic Exploration" project board.3  
+24. **Using Custom Fields for Topic Metadata:** The project board will be enhanced with custom fields tailored for knowledge exploration. Fields like "Topic Category" (e.g., "Technology," "History," "Science"), "Priority" (e.g., "High," "Medium," "Low"), and "Status" (e.g., "Backlog," "Researching," "Synthesizing," "Published") will be added to provide richer metadata for each topic.5  
+25. **Linking Issues to a Milestone:** To group related learning goals, a GitHub Milestone will be created, for example, "Q3 Learning Goals." A subset of the topic issues will be assigned to this milestone. This introduces another layer of organization, allowing for tracking progress against larger, time-bound objectives.2
 
-The final week of the foundational phase focuses on automating the entire build and deployment pipeline, transitioning from the manual process established in Week 1 to a fully autonomous CI/CD workflow. This task itself will be delegated to the agent, serving as a perfect, self-contained test of its capabilities.
+### **Modules 26-30: Advanced Foam Techniques**
 
-#### **Modules 15-20: Building the CI/CD Pipeline**
+This section moves beyond the basics of Foam to leverage its more powerful features for structuring and maintaining a high-quality knowledge graph.9
 
-Instead of manually authoring a YAML configuration file, a high-level, declarative prompt will be given to Cline. For example: "Create a GitHub Actions workflow file at .github/workflows/deploy.yml. This workflow must trigger on every push to the main branch. It should set up a Rust environment, install a specific version of mdBook, execute the mdbook build command, and then use the peaceiris/actions-gh-pages action to deploy the contents of the ./book/book output directory to the gh-pages branch."
+26. **Creating and Using Note Templates:** To standardize the format of different types of notes, Foam's template feature will be implemented. Templates for various knowledge artifacts—such as book summaries, biographies, project overviews, or technology explainers—will be created. Using the Foam: Create New Note from Template command will then become the standard workflow, ensuring consistency and reducing repetitive work.9  
+27. **Mastering the Tag Explorer and Hierarchical Tags:** Tags are a crucial tool for non-hierarchical organization. This module focuses on using the Tag Explorer panel to navigate the knowledge base. A tagging convention will be established, and the power of hierarchical tags (e.g., \#tech/python/automation) will be explored to create more granular and organized connections between notes.9  
+28. **Managing Orphans and Placeholders:** A healthy knowledge graph is a connected one. This module addresses graph maintenance by focusing on the "Orphans" and "Placeholders" panels in Foam.9 Orphans (notes with no links) and Placeholders (links to non-existent notes) will be regularly reviewed. A workflow will be established to either integrate orphaned notes into the graph or create new notes for placeholders, ensuring the knowledge base remains coherent and interconnected.10  
+29. **Embedding Note Content:** To create composite documents and avoid content duplication, Foam's note embedding feature (\!\[\[note-name\]\]) will be utilized. This allows the content of one note to be dynamically included within another. This is particularly useful for creating "Maps of Content" (MOCs) or summary pages that pull in information from multiple atomic notes.9  
+30. **Leveraging Section Linking and Aliases:** For more precise connections, linking to specific sections within a note (\]) will be practiced.9 Additionally, link aliasing (  
+    \[\[note-name|custom display text\]\]) will be used to make links more readable and context-friendly within the body of a note, improving the overall narrative flow of the written content.9
 
-This approach forces a shift in thinking from syntactic detail to strategic intent. Cline will generate a plan and the corresponding YAML file for review and approval.12 Once the generated workflow file is committed and pushed to the
+### **Modules 31-35: Python for PKM \- The First Scripts**
 
-main branch, the GitHub Actions runner will be triggered. The successful execution of this workflow will confirm that the site is now being built and deployed automatically. Any errors encountered in the runner's logs will be fed back to Cline for troubleshooting, further simulating a real-world human-AI collaborative debugging session. As a final step, the output.html.site-url setting in book.toml will be configured to ensure that the auto-generated 404 page links correctly within the GitHub Pages environment.11
+This section marks the introduction of custom automation with Python. The initial scripts will focus on automating common maintenance and organization tasks within the knowledge base, demonstrating the power of scripting to manage the PKM at scale.21
 
-## **Phase II: Core PKM Enhancements via Agentic Rust Development (Days 21-50)**
+31. **Setting Up the Python Environment:** A local Python development environment will be configured. This includes installing a recent version of Python and using a virtual environment manager like venv to isolate project dependencies. The first script will be a simple "hello world" to verify the setup.  
+32. **Script 1: File Organizer based on Frontmatter:** The first practical script will be a file organizer. This Python script will iterate through all Markdown files in the /notes directory. It will parse the YAML frontmatter of each file to read metadata (e.g., category: 'Technology'). Based on this metadata, the script will automatically move the file into a corresponding subdirectory (e.g., /notes/technology/). This automates a tedious organization task and introduces file system operations with Python's os module.22  
+33. **Script 2: Batch Tagging Utility:** Building on the previous script, a batch tagging utility will be created. This script will take a directory and a tag as command-line arguments. It will then scan all files in that directory and append the specified tag to their frontmatter tag list. This is useful for applying a new project tag or category to a group of existing notes simultaneously.21  
+34. **Reading and Consolidating Notes:** A script will be developed to demonstrate content processing. This script will read multiple text files (e.g., daily log files named YYYY-MM-DD.md) and consolidate their content into a single weekly or monthly summary file. This introduces file reading and writing operations and is a foundational step for more complex content analysis later on.21  
+35. **Integrating Scripts with the Command Line:** The scripts will be enhanced to be more user-friendly by using Python's argparse module to handle command-line arguments. This makes them more flexible and reusable, transforming them from simple scripts into proper command-line tools for PKM management.
 
-This phase represents the core of the project, where the PKM system is actively built out with custom features. The primary method will be directing Cline to develop mdBook preprocessors in Rust. The mdBook preprocessor architecture provides an ideal "bounded decision space" for an agent to operate within.3 It has a clearly defined interface—receiving a JSON representation of the book on
+### **Modules 36-40: Enhancing mdBook Presentation**
 
-stdin and returning a modified version on stdout—a specific language (Rust), and a clear build/test cycle (cargo build). This structure transforms the complex task of software engineering into a series of discrete, measurable, and agent-friendly modules, mitigating risk and making progress verifiable.13
+The final part of this phase focuses on customizing the appearance and functionality of the public-facing mdBook site, ensuring it is not just a repository of information but a polished and professional presentation of knowledge.
 
-### **Week 4: Introduction to Rust and Preprocessors (Modules 21-27)**
+36. **Creating a Custom Theme:** While mdBook comes with default themes, creating a custom look is essential for personalization. This module involves creating a theme directory and adding custom CSS files to override the default styles. This could involve changing colors, fonts, and layout to match a personal aesthetic.15  
+37. **Adding Custom JavaScript for Interactivity:** To add dynamic behavior, custom JavaScript files will be integrated. This could be used for simple enhancements like adding a "back to top" button, or more complex features like integrating an external analytics service or adding interactive UI elements.15  
+38. **Integrating Preprocessors for Rich Content:** mdBook's functionality can be extended with preprocessors. This module will explore adding support for features not natively included in Markdown. For example, the mdbook-mermaid preprocessor will be configured to allow for the rendering of Mermaid.js diagrams and flowcharts directly from code blocks, and MathJax support will be enabled for rendering complex mathematical equations.15  
+39. **Configuring a Professional Deployment:** To ensure the deployed site functions correctly, especially with custom domains or subdirectories, the site-url option in book.toml will be properly configured. This is crucial for ensuring that links, CSS, and JavaScript files load correctly on the live server.16  
+40. **Customizing the 404 Error Page:** A professional site needs a helpful error page. A custom 404.md file will be created in the src directory. mdBook will automatically convert this into a 404.html page that provides better navigation and user experience for visitors who encounter a broken link, which is a significant improvement over a generic server error.16
 
-Before building complex features, a foundational understanding of Rust and the preprocessor mechanism is necessary. This will be achieved by having Cline act as both a coder and a tutor.
+---
 
-#### **Modules 21-24: Rust Fundamentals through Cline**
+## **Phase III: AI Augmentation \- The Intelligent Assistant (Modules 41-60)**
 
-The initial foray into Rust will be guided by the agent. A /scratch directory will be created for experimentation. Prompts will be structured to elicit both code and explanation, such as: "Create a new Rust project in /scratch named rust\_basics. Write a 'Hello, World\!' program. Now, modify it to read a line of text from the user and print it back. In your response, explain the concepts of let, mut, String, and the :: operator." Cline's terminal integration will be used to compile and run the code with cargo run, providing immediate feedback.
+*Focus: Integrating a multi-tiered AI strategy to automate content processing and generate new insights. This is the core "AI-ification" phase.*
 
-#### **Modules 25-27: The Preprocessor "Hello, World\!"**
+### **Modules 41-45: AI Gateway Setup \- OpenRouter & Google AI Studio**
 
-The next step is to have Cline create a skeleton mdBook preprocessor. The prompt will be specific and reference the official documentation: "Following the mdBook preprocessor development guide, create a new Rust binary crate named mdbook-nop. Implement the Preprocessor trait to create a no-op preprocessor. This program should parse the book JSON from stdin and write the unmodified book JSON back to stdout. Finally, add the necessary configuration to the project's book.toml file to enable this preprocessor".13 This establishes a working baseline for all subsequent preprocessor development.
+This section lays the groundwork for all future AI integration by setting up access to powerful, flexible AI models through API gateways. This approach provides access to a wide variety of models without being locked into a single provider.
 
-### **Week 5-6: Agentic Solution to the Wikilink Problem (Modules 28-41)**
+41. **Creating an OpenRouter Account:** OpenRouter serves as a unified API gateway to hundreds of AI models from various providers like Anthropic, Google, and Meta.23 An account will be created, and the dashboard will be explored to understand its features, including model availability, pricing, and usage tracking.24  
+42. **Generating and Securing API Keys:** An API key will be generated from the OpenRouter dashboard. To maintain security best practices, this key will not be hard-coded into any scripts. Instead, it will be stored as an encrypted "secret" in the GitHub repository settings.1 This allows GitHub Actions workflows to securely access the key at runtime without exposing it in the codebase.  
+43. **Introduction to Google AI Studio:** Google AI Studio is a web-based tool for rapidly prototyping prompts and experimenting with Google's Gemini family of models.26 It provides an intuitive interface for testing different prompting strategies without writing any code, making it an ideal environment for initial exploration and "vibe coding".26  
+44. **Prototyping PKM Prompts in AI Studio:** Using Google AI Studio, several prompts tailored for PKM tasks will be developed and tested. This includes crafting system prompts for an AI assistant that can summarize long articles, extract key entities (people, places, concepts), generate a list of questions about a topic, or rephrase complex text into simpler terms. The iterative nature of the AI Studio playground allows for quick refinement of these prompts.28  
+45. **Understanding API Quotas and Billing:** A crucial part of using cloud-based AI is managing costs. This module involves reviewing the billing and quota systems for both OpenRouter and Google AI. A budget will be set, and the prepaid credit system of OpenRouter will be explored as a way to control spending.23 Understanding the per-token pricing for different models is essential for making cost-effective choices later on.24
 
-The first major feature to be implemented is support for \[\[wikilinks\]\], a cornerstone of modern networked note-taking tools like Foam and Roam Research.7
+### **Modules 46-50: Your First AI-Powered Python Script**
 
-#### **Modules 28-35: Building the Wikilink Preprocessor**
+With API access established, the next step is to bring AI capabilities into the local development environment through Python scripting.
 
-This multi-step task will require iterative guidance. The initial prompt will be: "Modify the mdbook-nop preprocessor, renaming the crate to mdbook-wikilink. The goal is to parse the content of each book chapter. Use the regex crate to find all occurrences of the pattern \]. For each match, convert it into a standard Markdown link in the format (./some-note-title.md). The link destination must be a 'slugified' version of the note title (lowercase, with spaces replaced by hyphens)."
+46. **Setting up the Python Environment for API Calls:** The Python environment will be prepared by installing necessary libraries, such as requests for making HTTP calls or a provider-specific SDK like openai which is compatible with the OpenRouter API endpoint.23  
+47. Script 3: The AI Summarizer: The first AI-powered script will be a text summarizer. This Python script will:  
+    a. Read the content of a specified Markdown file from the /notes directory.  
+    b. Construct a prompt using the text content.  
+    c. Make a POST request to the OpenRouter API endpoint (/api/v1/chat/completions), passing the prompt and selecting a powerful general-purpose model like anthropic/claude-3.5-sonnet or meta-llama/llama-3.1-405b-instruct.24
 
-Cline will propose a plan, which will include adding the regex crate to Cargo.toml. The user will review the generated Rust code (presented as a diff) and provide feedback. The logic will be implemented within the run method of the Preprocessor trait. The user will test the functionality by adding sample wikilinks to their markdown files and running mdbook build, inspecting the generated HTML to verify the transformation. Edge cases, such as aliased links like \], will be addressed in subsequent prompts.
+    d. Parse the JSON response to extract the generated summary.  
+    e. Print the summary to the console.  
+48. **Handling API Keys and Responses in Python:** The summarizer script will be refactored to securely access the API key from an environment variable rather than hard-coding it. Error handling will also be added to gracefully manage potential API issues, such as network errors, authentication failures, or rate limiting.30  
+49. **Writing Summaries Back to Files:** The script will be enhanced to be more useful. Instead of just printing the summary, it will be modified to write the summary back into the original Markdown file. A good practice is to add it to the YAML frontmatter under a summary: key or in a dedicated \#\# AI Summary section at the end of the file.  
+50. **Exploring OpenRouter Parameters:** The OpenRouter API offers numerous parameters to control model behavior, such as temperature, max\_tokens, and top\_p.30 This module involves experimenting with these parameters in the Python script to observe their effect on the quality, length, and creativity of the generated summaries, allowing for fine-tuning of the AI's output.
 
-#### **Modules 36-41: Refining and Testing the Preprocessor**
+### **Modules 51-55: Specialized Models with Hugging Face**
 
-With the basic functionality working, the focus shifts to robustness and quality. A follow-up prompt will be: "The mdbook-wikilink preprocessor is functional but fragile. Enhance it with logic to check if the target file (e.g., some-note-title.md) actually exists within the src directory. If the target file is missing, the generated link should be given a specific CSS class, such as class='broken-link', to allow for distinct visual styling. Additionally, write unit tests using Rust's \#\[test\] attribute to verify the slugification logic for various inputs." This task requires the agent to interact with the filesystem using Rust's std::path::Path module, demonstrating a more advanced capability.
+While API gateways are excellent for general-purpose tasks, some tasks benefit from specialized, fine-tuned models. Hugging Face is the leading platform for accessing these models.32
 
-### **Week 7: Generating a Knowledge Graph (Modules 42-50)**
+51. **Introduction to the Hugging Face Hub and Transformers Library:** This module provides an overview of the Hugging Face ecosystem. The Hugging Face Hub will be explored to find models specifically fine-tuned for summarization. The transformers Python library, which provides a high-level API for using these models, will be installed.32  
+52. **Implementing the Summarization Pipeline:** The transformers library offers a pipeline abstraction that simplifies the process of using a model for a specific task.34 A new Python script will be created that initializes a  
+    summarization pipeline, specifying a well-regarded model like facebook/bart-large-cnn.32  
+53. **Script 4: Hugging Face Summarizer:** This script will use the initialized pipeline to summarize a piece of text. The code is often simpler than a direct API call:  
+    Python  
+    from transformers import pipeline
 
-This week focuses on implementing two advanced PKM features: automatic backlink generation and tag indexing.14 Generating backlinks presents a unique challenge that requires a more sophisticated architecture than a single-pass preprocessor. To inject a list of backlinks into a page, the system must first have a complete map of all links across the entire book. A standard preprocessor, which processes chapters sequentially, cannot know about links from chapters it has not yet seen. The solution is a two-pass system, a classic compiler design pattern that can be orchestrated agentically.
+    \# Load the summarization pipeline with a specific model  
+    summarizer \= pipeline("summarization", model="facebook/bart-large-cnn")
 
-#### **Modules 42-47: The Backlink Generator (Two-Pass System)**
+    ARTICLE \= """ Your long text content here... """  
+    summary \= summarizer(ARTICLE, max\_length=150, min\_length=40, do\_sample=False)  
+    print(summary)
 
-The problem is decomposed into two distinct, agent-driven tasks:
+    This script will be tested on the same notes used in the OpenRouter module to compare results.32  
+54. **Comparing General vs. Specialized Models:** This module involves a qualitative analysis comparing the summaries generated by the general-purpose model via OpenRouter and the specialized BART model from Hugging Face. The comparison will focus on aspects like factual accuracy, coherence, conciseness, and relevance to the source text. This provides a practical understanding of the trade-offs between using large, general models and smaller, task-specific ones.  
+55. **Integrating Hugging Face into the Workflow:** The Hugging Face summarizer script will be integrated into the existing PKM workflow. It will be adapted to read from and write to files, just like the OpenRouter script, making it a viable alternative for the summarization task within the broader system.
 
-1. **Pass 1 (Collection):** A prompt will be given to create the first preprocessor: "Create a new Rust preprocessor named mdbook-link-collector. In its run method, it must iterate through every chapter and parse the content to find all wikilinks. It should build an in-memory data structure, like a HashMap\<String, Vec\<String\>\>, that maps each link target to a list of the source file paths that link to it. After processing all chapters, this preprocessor must serialize the data structure to a JSON file named link\_graph.json in the book's root directory. Crucially, this preprocessor should not modify the book's content."  
-2. **Pass 2 (Injection):** A second prompt will define the next stage: "Create a second preprocessor, mdbook-backlink-injector. In the book.toml file, ensure it is configured to run *after* the mdbook-link-collector. In its run method, it must first read and deserialize the link\_graph.json file. Then, for each chapter it processes, it should look up its own path in the loaded link graph. If any backlinks are found, it must append a 'Backlinks' section to the end of the chapter's content, formatted as a Markdown list of links to the source pages."
+### **Modules 56-60: Developing a Tiered AI Strategy**
 
-#### **Modules 48-50: The Tag Indexer**
+This section synthesizes the experiences from the previous modules into a coherent, strategic framework for using AI. Instead of treating each AI service as an isolated tool, the system will be designed to use them as a portfolio of resources, deployed intelligently based on the task's requirements.
 
-The final feature of this phase is a tag index. The agentic task will be: "Create a new preprocessor named mdbook-tag-indexer. It must scan all markdown files for tags, which can be denoted by hashtags (e.g., \#project-management) or defined in YAML frontmatter. After collecting all tags and the pages they appear on, it should generate a new virtual chapter, tags.md, and add it to the book. This new chapter should contain an alphabetized index of all tags, with each tag followed by a list of links to the corresponding pages."
+56. **Defining the Tiers: Cost, Speed, Privacy, Capability:** The AI resources available (OpenRouter, Hugging Face, and soon, local models via Ollama) will be categorized into tiers. For example:  
+    * **Tier 1 (Local/Fast):** Local Ollama models for low-cost, private, and fast tasks like simple text formatting or brainstorming.  
+    * **Tier 2 (Specialized/Efficient):** Hugging Face models for specific, well-defined tasks like summarization where a fine-tuned model excels.  
+    * **Tier 3 (Powerful/Cloud):** State-of-the-art models via OpenRouter for complex reasoning, high-quality content generation, or tasks requiring the largest context windows.  
+57. **Building a Python "Router" Function:** A Python function or class will be created to encapsulate this tiered logic. This AIManager will have a method like process\_text(task\_type, text, priority). Based on the task\_type (e.g., 'summarize', 'generate\_questions') and priority, this function will decide which AI service and model to call.  
+58. **Implementing the Routing Logic:** The AIManager will be implemented. For a 'summarize' task, it might default to the Hugging Face pipeline. For a 'brainstorm' task, it might use a local Ollama model. For a high-priority 'analyze\_complex\_document' task, it would route the request to a top-tier model through OpenRouter. This elevates the system from making simple API calls to making intelligent, resource-aware decisions.  
+59. **Creating a Reusable AI Toolkit:** The AIManager and its related functions will be organized into a reusable Python module within the /scripts directory. This toolkit will be imported by all future automation scripts, ensuring that the tiered AI strategy is applied consistently across the entire PKM system.  
+60. **Formalizing the Model Selection Framework:** The decision-making logic will be documented in a table. This framework serves as a quick reference for choosing the right tool for any given knowledge work task, moving from a reactive "what can this model do?" mindset to a proactive "what is the best model for this job?" approach.
 
-## **Phase III: Advanced AI and Python Ecosystem Integration (Days 51-80)**
+| Task | Recommended Model(s) / Platform | Rationale | Tier |
+| :---- | :---- | :---- | :---- |
+| **Quick Drafting & Brainstorming** | ollama/llama3 or ollama/phi-2 | Local, fast, private, and no cost per token. Ideal for iterative and creative tasks. | 1 (Local) |
+| **High-Quality Summarization** | Hugging Face (facebook/bart-large-cnn) | Fine-tuned specifically for summarization, providing concise and factually accurate output. | 2 (Specialized) |
+| **Fact Extraction & Data Structuring** | OpenRouter (google/gemini-2.5-pro) | Excellent at following complex instructions and outputting structured data like JSON. | 3 (Cloud) |
+| **Complex Reasoning & Analysis** | OpenRouter (anthropic/claude-3.5-sonnet) | Top-tier reasoning capabilities and large context window for analyzing dense documents. | 3 (Cloud) |
+| **Creative Writing & Rephrasing** | OpenRouter (mistralai/mistral-large) | Known for its strong performance in creative and stylistic writing tasks. | 3 (Cloud) |
 
-This phase shifts focus from the Rust-based structural enhancements to integrating the intelligence and analytical power of the Python ecosystem. A key capability of an advanced agent like Cline is its ability to operate as a polyglot programmer, orchestrating interactions between different languages. This phase will leverage that skill by directing Cline to write Python for high-level logic (e.g., search indexing, NLP) and Rust for the low-level integration needed to connect these Python scripts into the mdBook build process. This mirrors sophisticated, real-world software architectures and provides a strenuous test of the agentic workflow.
+---
 
-### **Week 8: Building a Full-Text Search Engine (Modules 51-60)**
+## **Phase IV: Hyper-Automation and Advanced Workflows (Modules 61-80)**
 
-While mdBook has built-in search, a custom solution offers greater flexibility and serves as an excellent integration project. The Python library Whoosh is a fast, pure-Python search library ideal for this purpose.39 The integration will be a two-part process, bridged by a Rust preprocessor.
+*Focus: Creating proactive, fully automated pipelines that require minimal manual intervention. This phase builds the "intelligent nervous system" of the PKM.*
 
-#### **Modules 51-55: Agentic Python Scripting with Whoosh**
+### **Modules 61-70: Advanced GitHub Actions Workflows**
 
-The first task is to have Cline write the core indexing logic in Python. The prompt will be: "Create a new Python script at scripts/indexer.py. This script must use the Whoosh library. It needs to define a search schema with fields for path, title, and content, where content is the main searchable text. The script should be able to walk the book/src directory, read the content of each .md file, and add it as a document to a Whoosh index that it creates in a new book/search\_index directory".39
+This section focuses on creating a sophisticated, multi-stage GitHub Action that fully automates the process of content enrichment, connecting the file system, Python scripts, AI models, and the deployment pipeline.
 
-#### **Modules 56-60: Integrating Python and Rust**
+61. **Designing the "Content Enrichment" Workflow:** A new, more advanced GitHub Actions workflow will be designed. The goal is to create a system that automatically processes a new note, enriches it with AI-generated content, and deploys the result without any manual steps.  
+62. **Triggering Workflows with Path Filters and Tags:** The workflow will be configured to trigger conditionally. It will run on pushes to the main branch but only when files in the /notes directory are modified. A convention will be established where adding a specific tag, like \#summarize, to a note's frontmatter signals the workflow to process that specific file.  
+63. **Workflow Step: Identifying Target Files:** The first step in the Action's job will be to identify which files have been changed in the latest commit and need processing. A simple shell script or a dedicated GitHub Action can be used to get the list of modified files.  
+64. **Workflow Step: Running the AI Python Script:** The workflow will then set up the Python environment and run the AIManager script developed in Phase III. The script will be called with the path to the modified file as an argument.  
+65. **Workflow Step: Committing Changes Back to the Repository:** After the Python script runs and modifies the note file (e.g., by adding a summary), the GitHub Action must commit this change back to the repository. This requires configuring Git within the action, setting a user and email, and using git commit and git push. A special commit message like "chore(AI): Add summary to \[filename\]" will be used to denote automated changes.  
+66. **Handling Recursive Workflow Triggers:** A critical challenge in this setup is that the workflow pushes a commit, which would normally trigger the workflow again, creating an infinite loop. This will be prevented by adding a condition to the commit step or the workflow trigger to ignore commits made by the Actions bot itself (e.g., by checking the commit message).  
+67. **Chaining Workflows:** Instead of putting everything in one massive file, the content enrichment workflow will be configured to trigger the existing mdBook deployment workflow upon its successful completion. This can be done using the workflow\_run event or by using a reusable "callable" workflow, which is a more modern approach.  
+68. **Adding an Issue Commenting Step:** To provide feedback, a final step will be added to the workflow. Using an action like peter-evans/create-or-update-comment, the workflow will find the corresponding GitHub Issue for the topic and post a comment indicating that the note has been automatically updated and a new version has been deployed, including a link to the published page.  
+69. **Full End-to-End Test:** A full test of the pipeline will be conducted. A new note will be created locally, tagged for summarization, and pushed to GitHub. The process will be monitored in the GitHub Actions tab, from the initial trigger to the AI processing, the commit back, the mdBook deployment, and the final comment on the issue.  
+70. **Refactoring for Reusability:** The workflow will be refactored to make it more modular. The Python script execution and the mdBook deployment steps will be broken into separate, reusable composite actions or callable workflows, making the main workflow file cleaner and easier to maintain.7
 
-With the Python indexer script complete, the next step is to integrate it into the mdBook build lifecycle. This requires a Rust preprocessor to act as an orchestrator. The agentic task is: "Create a new Rust preprocessor crate named mdbook-search-indexer. The sole purpose of this preprocessor is to execute the python scripts/indexer.py command during the mdbook build process. Use Rust's std::process::Command module to run the script. Ensure that the preprocessor correctly handles the working directory and that any errors or non-zero exit codes from the Python script are propagated, causing the mdBook build to fail." The final part of this module would involve having Cline write the necessary client-side JavaScript for the mdBook theme to query this new search index.
+### **Modules 71-75: Local LLMs with Ollama**
 
-### **Week 9-10: NLP-Powered Knowledge Discovery (Modules 61-75)**
+This section introduces local large language models using Ollama, adding a powerful, private, and cost-effective tier to the AI strategy.35
 
-This section leverages Python's powerful NLP libraries, particularly spaCy, to automatically extract metadata and generate insights from the raw text of the PKM notes.43 This adds a layer of intelligence that can surface connections and categorize information without manual effort.
+71. **Installing and Configuring Ollama:** Ollama will be installed on the local machine. The command-line interface will be used to pull down a versatile, medium-sized model like Llama 3 (ollama pull llama3) or a smaller, efficient model like Phi-2 (ollama pull phi-2).35  
+72. **Interacting with Local Models via CLI and API:** The first interactions will be through the command line using ollama run llama3. This provides a feel for the model's performance and personality. Subsequently, the Ollama REST API, which runs locally on port 11434, will be explored. A tool like curl or Postman will be used to send requests to the API, demonstrating how to interact with the local model programmatically.36  
+73. **Creating a Custom Model with a Modelfile:** To tailor a model for specific PKM tasks, a Modelfile will be created.37 This file defines a custom model based on a parent model (e.g.,  
+    FROM llama3). It will include a SYSTEM prompt to give the model a specific persona, such as a "Socratic Inquisitor" whose role is to respond to any text by generating three probing questions to deepen understanding. Parameters like temperature can also be set to control creativity.38  
+74. **Building and Running the Custom Model:** The ollama create command will be used to build the custom model from the Modelfile, giving it a unique name (e.g., socratic-inquisitor). This new model will then be available to run via ollama run socratic-inquisitor and through the API.37  
+75. **Integrating Ollama into the Python AI Toolkit:** The AIManager Python module will be updated to include Ollama as a new AI provider. A new function will be added that makes API calls to the local Ollama server. The routing logic will be updated to use the local model for specific tasks, such as brainstorming or generating questions, officially adding the "Tier 1 (Local)" capability to the system.36
 
-#### **Modules 61-68: Named-Entity Recognition and Auto-Tagging**
+### **Modules 76-80: Containerization with Docker**
 
-The goal is to automatically identify and tag key entities within notes. The agentic task will be: "Create a Python script scripts/nlp\_processor.py that uses the spaCy library. The script must accept a markdown file path as a command-line argument. It should load the file, extract the plain text, and process it with one of spaCy's pre-trained models (e.g., en\_core\_web\_sm) to perform Named-Entity Recognition (NER). For each entity recognized (such as PERSON, ORG, GPE), it should generate a corresponding tag. The script should output a JSON object containing a list of these discovered tags".43 A subsequent task will direct Cline to create another Rust preprocessor that runs this script for each file during the build and injects the discovered tags into the file's YAML frontmatter.
+To ensure the PKM system's environment is consistent, portable, and reproducible, this section introduces containerization using Docker. This brings professional DevOps practices to the personal project.
 
-#### **Modules 69-75: Automatic Summarization and Keyword Extraction**
+76. **Introduction to Docker Concepts:** The core concepts of Docker will be reviewed: images, containers, Dockerfiles, and volumes. The benefits of containerization for creating isolated and predictable environments will be discussed.  
+77. **Running Ollama in a Docker Container:** As a first practical step, instead of running Ollama directly on the host machine, it will be run inside a Docker container using the official ollama/ollama image.35 This involves running the container, mapping the necessary ports, and using a volume to persist the downloaded models, ensuring they are not lost when the container stops.  
+78. Writing a Dockerfile for the Python Scripts: A Dockerfile will be written for the PKM's Python automation tools. This file will define a custom image that:  
+    a. Starts from a base Python image.  
+    b. Copies the requirements.txt file and installs the dependencies.  
+    c. Copies the /scripts directory into the image.  
+    d. Sets up any necessary environment variables.  
+79. **Building and Running the Custom Python Container:** The docker build command will be used to create an image from the Dockerfile. Then, docker run will be used to start a container from this image and execute one of the automation scripts, demonstrating that the entire toolchain can run in a self-contained environment.  
+80. **Exploring Other Self-Hosted PKM Tools:** Docker makes it easy to experiment with other open-source tools. This module involves exploring the Docker images for other self-hosted PKM platforms like Memos or Siyuan.39 By running these tools locally in containers, new ideas and features can be discovered and potentially incorporated into the custom PKM system, all without polluting the host machine with new dependencies.
 
-Building on the NLP processor, more advanced features will be added. The prompt will be: "Enhance scripts/nlp\_processor.py. Add a function that generates a concise, one-paragraph summary of the input text. Add another function that extracts the top 5 most relevant keywords using a method like TF-IDF or by analyzing noun chunks. The script's JSON output should be updated to include these new fields: summary and keywords." This will likely involve exploring more of the spaCy or Scikit-learn ecosystems.16 The results can then be integrated via a preprocessor to create index pages that display summaries for quick topic overviews, significantly improving the discoverability of knowledge within the system.
+---
 
-### **Week 11: Extending the Agent Itself with MCP (Modules 76-80)**
+## **Phase V: Frontier Exploration and Custom Tooling (Modules 81-100)**
 
-This week marks a pivotal transition: moving from being a *user* of the agent's tools to a *creator* of new tools for the agent. The Model Context Protocol (MCP) allows developers to extend an agent's capabilities by exposing new functions it can call.4 This is the ultimate form of customization, graduating from prompting in natural language to programming the agent's core abilities. The ultimate test of the agentic workflow is to have the agent build an extension for itself.
+*Focus: Pushing the boundaries of PKM by building high-performance, custom components and exploring next-generation AI platforms.*
 
-#### **Modules 76-80: Building a Custom PKM Search Tool for Cline**
+### **Modules 81-90: High-Performance PKM with Rust**
 
-The prompt for this capstone task will be: "Add a tool that allows you to directly query my PKM's Whoosh search index from our chat. To achieve this, create a Python MCP server using the fastmcp library, as described in its documentation.17 This server must expose a tool named
+This section directly addresses the "impedance mismatch" problem identified in Phase I by building a custom, high-performance command-line utility in Rust. This provides a tangible, valuable project that motivates learning a new, more complex language and demonstrates a clear progression in technical capability.
 
-search\_pkm that accepts a query\_string as an argument. When called, this tool should use the Whoosh library to search the index located at book/search\_index and return the top three search results as a formatted string."
+81. **Setting up the Rust Development Environment:** The Rust toolchain, including rustup and cargo, will be installed. A new binary crate will be created using cargo new foam-link-converter. The basics of the Rust language will be explored, focusing on concepts relevant to this project: file system operations, string manipulation, and error handling.  
+82. Designing the Link Conversion Utility: The command-line tool's logic will be designed. It will need to:  
+    a. Accept a directory path as a command-line argument.  
+    b. Recursively walk through the directory to find all .md files.  
+    c. For each file, read its content into a string.  
+    d. Use regular expressions to find all instances of Foam's \[\[wikilink\]\] syntax.  
+    e. For each found wikilink, determine the correct relative path to the target file.  
+    f. Replace the \[\[wikilink\]\] with a standard Markdown link (\[wikilink\](./path/to/file.md)).  
+    g. Write the modified content back to the file.  
+83. **Implementing File System Traversal in Rust:** The first part of the implementation will focus on safely and efficiently traversing the notes directory. Rust libraries like walkdir will be used for this purpose.  
+84. **Parsing and Replacing Links with Regex:** Rust's powerful regex crate will be used to implement the core link-finding and replacement logic. This module will focus on crafting a robust regular expression that can handle simple links, aliases, and section links.  
+85. **Handling Edge Cases and Path Logic:** A simple replacement is not enough. The tool must be intelligent. For a link like \[\[my-note\]\], the tool needs to find the file my-note.md within the directory structure and calculate the correct relative path from the source file to the target file. This involves path manipulation using Rust's standard library.  
+86. **Compiling for Performance:** The Rust code will be compiled in release mode (cargo build \--release). The performance of this compiled binary will be compared to a hypothetical Python script performing the same task, highlighting the significant speed advantage of a compiled language like Rust for I/O- and CPU-intensive tasks. This provides a concrete demonstration of moving up the "performance ladder" from interpreted to compiled languages.  
+87. **Integrating the Rust Tool into the GitHub Action:** The compiled binary will be checked into the repository or built as part of the CI process. The main GitHub Actions workflow will be modified to run this custom utility as a build step before mdbook build is called. This completely automates the solution to the wikilink problem.  
+88. **Exploring Other Rust-Based PKM Tools:** To gain further inspiration from the Rust ecosystem, notable open-source PKM tools written in Rust, such as AppFlowy and Joplin, will be reviewed.41 Examining their architecture and feature sets can provide ideas for future enhancements to the custom system.  
+89. **Publishing the Crate (Optional):** As an extension, the foam-link-converter utility can be published to crates.io, Rust's public package registry. This provides experience with the full lifecycle of creating and sharing an open-source tool.  
+90. **Finalizing the Automated Linking Workflow:** The end-to-end workflow is now complete. A user can write notes in VSCode using fluid \[\[wikilinks\]\], push the changes to GitHub, and the automated pipeline will use a custom-built, high-performance Rust utility to seamlessly convert the links for publication with mdBook. This represents a significant engineering achievement within the PKM project.
 
-Once Cline has built and the user has launched this MCP server, the interaction model changes. The user can now issue commands like: "Use your search\_pkm tool to find notes related to 'agentic frameworks' and then write a summary of your findings." This closes the loop: the agent is now actively using the very systems and tools that it helped to build, creating a powerful, self-referential development environment.
+### **Modules 91-95: Exploring the Modular Platform (Mojo & MAX)**
 
-## **Phase IV: Exploration, Optimization, and Synthesis (Days 81-100)**
+This section ventures into the cutting edge of AI infrastructure, exploring the Modular Platform to understand how to achieve state-of-the-art performance for AI tasks.42
 
-The final phase of this 100-day journey is dedicated to advanced topics, ensuring the project's long-term viability, and, most importantly, synthesizing the lessons learned about the agentic development process. The focus shifts from feature creation to system hardening, comparative analysis, and future planning.
+91. **Introduction to Modular, Mojo, and MAX:** The Modular ecosystem will be introduced. Mojo is a programming language that combines the usability of Python with the performance of C and Rust, designed specifically for AI developers.43 MAX is Modular's suite of AI libraries and tools for high-performance inference.45  
+92. **Installing the Modular SDK:** The Modular SDK will be installed, providing access to the Mojo compiler and MAX tools. The native VSCode extension for Mojo will also be installed to get syntax highlighting and language support.42  
+93. **Writing "Hello World" in Mojo:** The first Mojo program will be written and compiled. This will introduce Mojo's syntax, which is a superset of Python, and concepts like strong typing with var and fn for function definitions.44  
+94. **Running a Pre-Optimized Model with MAX Serving:** The power of the MAX platform will be demonstrated by running a pre-optimized model from the Modular model repository. Using the max serve command, an OpenAI-compatible API endpoint will be started locally, serving a model like Llama 3\.45 The performance (tokens per second) of this endpoint will be observed and compared to other inference methods, showcasing the benefits of Modular's optimizations.43  
+95. **Experimenting with a Mojo Script:** A simple Mojo script will be written to interact with the MAX-served model. This provides a glimpse into how Mojo can be used to write the high-performance "glue code" for AI applications, bridging the gap between Python's ease of use and the need for speed in production AI systems.43
 
-### **Week 12: Reproducibility and Comparative Analysis (Modules 81-90)**
+### **Modules 96-100: Capstone Project \- The "Topic Delver" Agent**
 
-This week focuses on making the project robust and portable while also broadening the understanding of the agentic landscape by experimenting with a different tool.
+This final project synthesizes all the skills and components developed over the previous 95 days into a single, powerful, and fully automated "agent" that actively assists in the knowledge exploration process.
 
-#### **Modules 81-85: Containerizing the Environment with Docker**
-
-To ensure the entire development and build environment is perfectly reproducible, it will be packaged into a Docker container. The docker init command, which automates the creation of Docker assets, is an ideal starting point for an agent.20 The agentic task will be: "Use
-
-docker init to generate a Dockerfile for our project. Modify the generated file to use a multi-stage build.21 The initial 'builder' stage should install the full Rust toolchain and Python with all dependencies. The final, production-ready image should be minimal, containing only the compiled Rust preprocessors, the Python scripts, their dependencies, and the
-
-mdBook binary. Also, create a compose.yaml file that defines a service to run the mdbook serve command and maps the necessary ports for local development."
-
-#### **Modules 86-90: A Comparative Experiment with Google Jules**
-
-To gain a broader perspective on agentic architectures, a comparative analysis will be conducted using Google Jules. Jules represents a different approach: it is an asynchronous, cloud-based agent that interacts with repositories primarily through pull requests.22 The GitHub repository for the PKM project will be connected to Jules. A well-defined, self-contained task previously completed by Cline (e.g., "Add unit tests for the wikilink slugification logic") will be assigned to Jules. The experience will be documented in a new PKM note, comparing and contrasting the two workflows: Jules' asynchronous, PR-driven model versus Cline's synchronous, local, in-editor interaction model. This provides invaluable firsthand experience with the strengths and weaknesses of different agentic systems.
-
-### **Week 13: Future-Proofing and Exploration (Modules 91-100)**
-
-The final week is about looking ahead, finalizing the project, and reflecting on the journey.
-
-#### **Modules 91-95: Exploring High-Performance AI with Modular & Mojo**
-
-This is an exploratory module designed to provide a forward-looking perspective on the future of AI programming. The Modular SDK will be installed, and a "Hello, World\!" program will be written in Mojo, a language designed to combine Python's usability with systems-level performance.26 A prompt will be given to Cline: "Explain the key differences between Python and Mojo, focusing on why Mojo is designed to be significantly faster for AI and machine learning workloads.52" The goal is not to build a new feature but to understand the landscape of high-performance AI computing, which could inform future optimizations of the PKM's NLP and search capabilities.
-
-#### **Modules 96-98: System Hardening and Documentation**
-
-A project is not complete without proper documentation. This task will be delegated to the agent that built the system. The prompt will be: "Perform a comprehensive review of the entire project. Identify any functions in the Rust and Python code that lack documentation comments and add them. Create a new CONTRIBUTING.md file that explains the project's architecture, how to set up the development environment using the Docker container, and the process for building the book. Finally, generate a comprehensive README.md for the root of the repository, detailing the project's purpose, its key features, and how to use them."
-
-#### **Modules 99-100: Synthesis and Future Roadmap**
-
-The final two days are for reflection and planning. A meta-note will be created within the newly built PKM titled "Reflections on 100 Days of Agentic Development." This document will synthesize the key learnings from the journey, including the paradigm shift from programmer to AI conductor, the practical strengths and weaknesses of the Cline-based workflow, and the most effective strategies for decomposing complex problems for an AI agent. To conclude the project, a new board in GitHub Projects titled "PKM v2.0 Roadmap" will be created. This board will be populated with future ideas that emerged during the 100 days, such as integrating a vector database for semantic search, creating a new agentic tool for automatic knowledge graph visualization, or exploring a Mojo-based preprocessor for ultra-fast NLP tasks. This final step ensures the project does not end but rather establishes a clear path for its continued, agent-assisted evolution.
-
-## **Conclusion**
-
-This 100-day plan presents a structured methodology for not only building a highly customized, AI-enhanced Personal Knowledge Management system but also for acquiring deep, practical expertise in the emergent field of agentic software development. The journey is designed to systematically transition the developer's role from a direct implementer of code to a high-level architect and conductor of an autonomous AI agent.
-
-The key takeaways from this proposed plan are threefold:
-
-1. **Decomposition is the Master Skill:** The effectiveness of an agentic workflow is directly proportional to the developer's ability to decompose large, ambiguous goals into a series of clear, verifiable, and self-contained tasks. The modular nature of mdBook preprocessors and the distinct phases of the plan are designed to cultivate this skill.  
-2. **The Environment is the Contract:** Establishing a robust, automated, and observable environment (via GitHub, CI/CD, and Docker) is paramount. This environment serves as the "contract" between the human and the AI, providing the necessary guardrails, feedback loops, and verification mechanisms that make autonomous operation both possible and safe.  
-3. **Human-AI Collaboration is Iterative:** The process is not a "fire-and-forget" delegation. It is a continuous, iterative dialogue. The developer provides the strategic intent, the agent proposes a tactical plan and implementation, and the developer reviews, refines, and guides the process. Mastering this collaborative loop—knowing when to give precise instructions versus when to allow for more autonomy—is the central learning objective.
-
-By completing this 100-module plan, the end result is not merely a piece of software, but a powerful, self-evolving knowledge system and, more importantly, a profound shift in the mental model of how software is created. The developer emerges not just with a new tool, but with a new, more leveraged, and future-proof way of building. The PKM becomes the first artifact of a new practice, setting the stage for tackling increasingly complex projects through the paradigm of human-AI partnership.
+96. **Designing the "Topic Delver" Agent Workflow:** A master GitHub Action will be designed. This workflow will trigger when a GitHub Issue on the "Topic Exploration" project board is moved into the "Researching" column. This project management action becomes the starting signal for the automated agent.1  
+97. **Step 1: Initial Information Gathering (Python \+ OpenRouter):** The workflow will trigger a Python script. This script will take the title of the GitHub Issue as input. It will use the OpenRouter API to query a powerful model, instructing it to perform a simulated web search to find 3-5 key articles, videos, or papers related to the topic.23  
+98. **Step 2: Generating Foundational Questions (Python \+ Ollama):** The script will then take the gathered resources and the issue summary and pass them to the custom "socratic-inquisitor" model running locally via Ollama. The model's task is to generate a list of 5-10 foundational questions that should be answered to gain a deep understanding of the topic.35  
+99. **Step 3: Creating the "Topic Hub" Note:** The Python script will then create a new Markdown file in the /notes directory. The filename will be based on the issue title. This file will be pre-populated using a template that includes the list of resources gathered by OpenRouter and the foundational questions generated by Ollama.  
+100. **Step 4: Finalizing and Notifying (Rust, mdBook, GitHub API):** The workflow will then execute the custom Rust foam-link-converter utility to ensure all links are correct. It will commit the new note file to the repository, which in turn triggers the mdBook deployment workflow. As a final step, the workflow will use the GitHub API to post a comment back to the original Issue, stating: "The Topic Hub has been created. You can view the note here:," completing the automated loop from task management to knowledge creation. This capstone project exemplifies a truly AI-augmented PKM system, where the system itself becomes an active partner in the process of learning and exploration.
 
 #### **Works cited**
 
-1. Introduction to Agentic Programming Part 1 \- RIIS LLC, accessed September 5, 2025, [https://www.riis.com/blog/introduction-to-agentic-programming-part-1](https://www.riis.com/blog/introduction-to-agentic-programming-part-1)  
-2. How is Agentic AI Transforming Code Generation in Modern Development? \- Monetizely, accessed September 5, 2025, [https://www.getmonetizely.com/articles/how-is-agentic-ai-transforming-code-generation-in-modern-development](https://www.getmonetizely.com/articles/how-is-agentic-ai-transforming-code-generation-in-modern-development)  
-3. The Agentic AI Design Paradigm: Reshaping How We Build Software \- Destination CRM, accessed September 5, 2025, [https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/The-Agentic-AI-Design-Paradigm-Reshaping-How-We-Build-Software-169958.aspx](https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/The-Agentic-AI-Design-Paradigm-Reshaping-How-We-Build-Software-169958.aspx)  
-4. Cline \- Visual Studio Marketplace, accessed September 5, 2025, [https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)  
-5. Getting Started with Cline in VS Code | Egirna Technologies, accessed September 5, 2025, [https://www.egirna.com/blog/news-2/getting-started-with-cline-in-vs-code-22](https://www.egirna.com/blog/news-2/getting-started-with-cline-in-vs-code-22)  
-6. rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust, accessed September 5, 2025, [https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)  
-7. A personal knowledge management and sharing system for ... \- Foam, accessed September 5, 2025, [https://foambubble.github.io/foam/](https://foambubble.github.io/foam/)  
-8. cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. \- GitHub, accessed September 5, 2025, [https://github.com/cline/cline](https://github.com/cline/cline)  
-9. What Makes a Coding Agent? \- Cline Blog, accessed September 5, 2025, [https://cline.bot/blog/what-makes-a-coding-agent](https://cline.bot/blog/what-makes-a-coding-agent)  
-10. Home · cline/cline Wiki \- GitHub, accessed September 5, 2025, [https://github.com/cline/cline/wiki](https://github.com/cline/cline/wiki)  
-11. Continuous Integration \- mdBook Documentation \- GitHub Pages, accessed September 5, 2025, [https://rust-lang.github.io/mdBook/continuous-integration.html](https://rust-lang.github.io/mdBook/continuous-integration.html)  
-12. A GitHub Action to automatically build and deploy your mdbook project., accessed September 5, 2025, [https://github.com/XAMPPRocky/deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook)  
-13. Preprocessors \- mdBook Documentation, accessed September 5, 2025, [https://rust-lang.github.io/mdBook/for\_developers/preprocessors.html](https://rust-lang.github.io/mdBook/for_developers/preprocessors.html)  
-14. Foam \- Visual Studio Marketplace, accessed September 5, 2025, [https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)  
-15. Building code inside an mdbook preprocessor \- Rust Users Forum, accessed September 5, 2025, [https://users.rust-lang.org/t/building-code-inside-an-mdbook-preprocessor/64241](https://users.rust-lang.org/t/building-code-inside-an-mdbook-preprocessor/64241)  
-16. Top 30 Python Libraries To Know in 2025 \- Great Learning, accessed September 5, 2025, [https://www.mygreatlearning.com/blog/open-source-python-libraries/](https://www.mygreatlearning.com/blog/open-source-python-libraries/)  
-17. How to Build a Python MCP Server to Consult a Knowledge Base \- Auth0, accessed September 5, 2025, [https://auth0.com/blog/build-python-mcp-server-for-blog-search/](https://auth0.com/blog/build-python-mcp-server-for-blog-search/)  
-18. OpenRouter API Reference | Complete API Documentation, accessed September 5, 2025, [https://openrouter.ai/docs/api-reference/overview](https://openrouter.ai/docs/api-reference/overview)  
-19. llms.txt \- OpenRouter, accessed September 5, 2025, [https://openrouter.ai/docs/llms.txt](https://openrouter.ai/docs/llms.txt)  
-20. Develop your Rust application \- Docker Docs, accessed September 5, 2025, [https://docs.docker.com/guides/rust/develop/](https://docs.docker.com/guides/rust/develop/)  
-21. A Practical Guide To Containerize Your Rust Application With Docker \- ITNEXT, accessed September 5, 2025, [https://itnext.io/a-practical-guide-to-containerize-your-rust-application-with-docker-77e8a391b4a8](https://itnext.io/a-practical-guide-to-containerize-your-rust-application-with-docker-77e8a391b4a8)  
-22. Google Jules: The Complete Guide to Google's AI Coding Agent | Entelligence Blog, accessed September 5, 2025, [https://www.entelligence.ai/blogs/google-jules-free-async-ai-for-debugging-code](https://www.entelligence.ai/blogs/google-jules-free-async-ai-for-debugging-code)  
-23. Jules: Google's autonomous AI coding agent \- The Keyword, accessed September 5, 2025, [https://blog.google/technology/google-labs/jules/](https://blog.google/technology/google-labs/jules/)  
-24. Intro to Mammoth \- Modular docs, accessed September 5, 2025, [https://docs.modular.com/mammoth/](https://docs.modular.com/mammoth/)  
-25. Modular Documentation | Modular, accessed September 5, 2025, [https://docs.modular.com/](https://docs.modular.com/)  
-26. The Modular Platform (includes MAX & Mojo) \- GitHub, accessed September 5, 2025, [https://github.com/modular/modular](https://github.com/modular/modular)  
-27. foambubble/foam: A personal knowledge management and sharing system for VSCode \- GitHub, accessed September 5, 2025, [https://github.com/foambubble/foam](https://github.com/foambubble/foam)  
-28. Recommended Extensions \- Foam, accessed September 5, 2025, [https://foambubble.github.io/foam/user/getting-started/recommended-extensions.html](https://foambubble.github.io/foam/user/getting-started/recommended-extensions.html)  
-29. Recommended Extensions | Foam, accessed September 5, 2025, [https://foam-template-gatsby-kb.vercel.app/recommended-extensions](https://foam-template-gatsby-kb.vercel.app/recommended-extensions)  
-30. How to deploy mdbook on GitHub \- Stack Overflow, accessed September 5, 2025, [https://stackoverflow.com/questions/60706255/how-to-deploy-mdbook-on-github](https://stackoverflow.com/questions/60706255/how-to-deploy-mdbook-on-github)  
-31. Cline Configuration Guide: Quick Setup \- APIpie.ai, accessed September 5, 2025, [https://apipie.ai/docs/Integrations/Coding/Cline](https://apipie.ai/docs/Integrations/Coding/Cline)  
-32. OpenRouter API | Documentation | Postman API Network, accessed September 5, 2025, [https://www.postman.com/ai-engineer/generative-ai-apis/documentation/ef6c9qg/openrouter-api](https://www.postman.com/ai-engineer/generative-ai-apis/documentation/ef6c9qg/openrouter-api)  
-33. A First Look at CLI aNd Editor (CLINE) | by John Duprey | Thomson Reuters Labs | Medium, accessed September 5, 2025, [https://medium.com/tr-labs-ml-engineering-blog/a-first-look-at-cli-and-editor-cline-c96dbc7a6331](https://medium.com/tr-labs-ml-engineering-blog/a-first-look-at-cli-and-editor-cline-c96dbc7a6331)  
-34. Cline AI: A Guide With Nine Practical Examples \- DataCamp, accessed September 5, 2025, [https://www.datacamp.com/tutorial/cline-ai](https://www.datacamp.com/tutorial/cline-ai)  
-35. peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages Deploy static files and publish your site easily. Static-Site-Generators-friendly., accessed September 5, 2025, [https://github.com/peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)  
-36. peaceiris/actions-mdbook: GitHub Actions for mdBook (rust-lang/mdBook) ⚡️ Setup mdBook quickly and build your site fast. Linux (Ubuntu), macOS, and Windows are supported., accessed September 5, 2025, [https://github.com/peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook)  
-37. starter-workflows/pages/mdbook.yml at main \- GitHub, accessed September 5, 2025, [https://github.com/actions/starter-workflows/blob/main/pages/mdbook.yml](https://github.com/actions/starter-workflows/blob/main/pages/mdbook.yml)  
-38. Backlinking \- Foam, accessed September 5, 2025, [https://foambubble.github.io/foam/user/features/backlinking.html](https://foambubble.github.io/foam/user/features/backlinking.html)  
-39. Quick start — Whoosh 2.7.4 documentation \- Read the Docs, accessed September 5, 2025, [https://whoosh.readthedocs.io/en/latest/quickstart.html](https://whoosh.readthedocs.io/en/latest/quickstart.html)  
-40. Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python. \- GitHub, accessed September 5, 2025, [https://github.com/whoosh-community/whoosh](https://github.com/whoosh-community/whoosh)  
-41. Introduction to Whoosh — Whoosh 2.7.4 documentation, accessed September 5, 2025, [https://whoosh.readthedocs.io/en/latest/intro.html](https://whoosh.readthedocs.io/en/latest/intro.html)  
-42. Developing a Text Search Engine using the Whoosh Library in Python \- Tutorialspoint, accessed September 5, 2025, [https://www.tutorialspoint.com/developing-a-text-search-engine-using-the-whoosh-library-in-python](https://www.tutorialspoint.com/developing-a-text-search-engine-using-the-whoosh-library-in-python)  
-43. Natural Language Processing With spaCy in Python \- Real Python, accessed September 5, 2025, [https://realpython.com/natural-language-processing-spacy-python/](https://realpython.com/natural-language-processing-spacy-python/)  
-44. spaCy · Industrial-strength Natural Language Processing in Python, accessed September 5, 2025, [https://spacy.io/](https://spacy.io/)  
-45. NLTK vs spaCy \- Python based NLP libraries and their functions \- Seaflux Technologies, accessed September 5, 2025, [https://www.seaflux.tech/blogs/NLP-libraries-spaCy-NLTK-differences/](https://www.seaflux.tech/blogs/NLP-libraries-spaCy-NLTK-differences/)  
-46. 9 Best Python Natural Language Processing (NLP) Libraries \- Sunscrapers, accessed September 5, 2025, [https://sunscrapers.com/blog/9-best-python-natural-language-processing-nlp/](https://sunscrapers.com/blog/9-best-python-natural-language-processing-nlp/)  
-47. Containerize Rust Application in 2 Minutes using Docker Init \- DEV Community, accessed September 5, 2025, [https://dev.to/ajeetraina/containerize-rust-application-in-2-minutes-using-docker-init-1ohh](https://dev.to/ajeetraina/containerize-rust-application-in-2-minutes-using-docker-init-1ohh)  
-48. Jules, Google's asynchronous AI coding agent, is out of public beta \- The Keyword, accessed September 5, 2025, [https://blog.google/technology/google-labs/jules-now-available/](https://blog.google/technology/google-labs/jules-now-available/)  
-49. Get started with Mojo \- Modular docs, accessed September 5, 2025, [https://docs.modular.com/mojo/manual/get-started/](https://docs.modular.com/mojo/manual/get-started/)  
-50. Mojo : Powerful CPU+GPU Programming \- Modular AI, accessed September 5, 2025, [https://www.modular.com/mojo](https://www.modular.com/mojo)  
-51. Learn to Program in Mojo Tutorial for Beginners \- YouTube, accessed September 5, 2025, [https://www.youtube.com/watch?v=EosPHW2ic9U](https://www.youtube.com/watch?v=EosPHW2ic9U)  
-52. Exploring the Power of Mojo Programming Language \- Seaflux Technologies, accessed September 5, 2025, [https://www.seaflux.tech/blogs/mojo-ai-programming-language/](https://www.seaflux.tech/blogs/mojo-ai-programming-language/)  
-53. Mojo \- A New Programming Language for AI \- Refine dev, accessed September 5, 2025, [https://refine.dev/blog/mojo-programming-language/](https://refine.dev/blog/mojo-programming-language/)
+1. Automating Projects using Actions \- GitHub Docs, accessed September 1, 2025, [https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions)  
+2. Planning and tracking with Projects \- GitHub Docs, accessed September 1, 2025, [https://docs.github.com/en/issues/planning-and-tracking-with-projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)  
+3. GitHub Issues · Project planning for developers, accessed September 1, 2025, [https://github.com/features/issues](https://github.com/features/issues)  
+4. Using GitHub issues to manage my tasks because I got tired of all the markdown files. : r/ClaudeAI \- Reddit, accessed September 1, 2025, [https://www.reddit.com/r/ClaudeAI/comments/1mozlq0/using\_github\_issues\_to\_manage\_my\_tasks\_because\_i/](https://www.reddit.com/r/ClaudeAI/comments/1mozlq0/using_github_issues_to_manage_my_tasks_because_i/)  
+5. About Projects \- GitHub Docs, accessed September 1, 2025, [https://docs.github.com/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects](https://docs.github.com/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)  
+6. kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers. \- GitHub, accessed September 1, 2025, [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
+7. I saved 10+ of repetitive manual steps using just 4 GitHub Actions workflows \- Reddit, accessed September 1, 2025, [https://www.reddit.com/r/devops/comments/1jbajbr/i\_saved\_10\_of\_repetitive\_manual\_steps\_using\_just/](https://www.reddit.com/r/devops/comments/1jbajbr/i_saved_10_of_repetitive_manual_steps_using_just/)  
+8. A personal knowledge management and sharing system for VSCode \- Foam, accessed September 1, 2025, [https://foambubble.github.io/foam/](https://foambubble.github.io/foam/)  
+9. foambubble/foam: A personal knowledge management and sharing system for VSCode \- GitHub, accessed September 1, 2025, [https://github.com/foambubble/foam](https://github.com/foambubble/foam)  
+10. Foam \- Visual Studio Marketplace, accessed September 1, 2025, [https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)  
+11. Recommended Extensions | Foam, accessed September 1, 2025, [https://foam-template-gatsby-kb.vercel.app/recommended-extensions](https://foam-template-gatsby-kb.vercel.app/recommended-extensions)  
+12. Recommended Extensions \- Foam, accessed September 1, 2025, [https://foambubble.github.io/foam/user/getting-started/recommended-extensions.html](https://foambubble.github.io/foam/user/getting-started/recommended-extensions.html)  
+13. Visual Studio Code Extensions \- thecrumb, accessed September 1, 2025, [https://www.thecrumb.com/posts/2022-12-21-my-vscode-extensions/](https://www.thecrumb.com/posts/2022-12-21-my-vscode-extensions/)  
+14. Introduction \- mdBook Documentation, accessed September 1, 2025, [https://rust-lang.github.io/mdBook/](https://rust-lang.github.io/mdBook/)  
+15. Renderers \- mdBook Documentation \- GitHub Pages, accessed September 1, 2025, [https://rust-lang.github.io/mdBook/format/configuration/renderers.html](https://rust-lang.github.io/mdBook/format/configuration/renderers.html)  
+16. Continuous Integration \- mdBook Documentation \- GitHub Pages, accessed September 1, 2025, [https://rust-lang.github.io/mdBook/continuous-integration.html](https://rust-lang.github.io/mdBook/continuous-integration.html)  
+17. Creating Your First CI/CD Pipeline Using GitHub Actions | by Brandon Kindred \- Medium, accessed September 1, 2025, [https://brandonkindred.medium.com/creating-your-first-ci-cd-pipeline-using-github-actions-81c668008582](https://brandonkindred.medium.com/creating-your-first-ci-cd-pipeline-using-github-actions-81c668008582)  
+18. peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages Deploy static files and publish your site easily. Static-Site-Generators-friendly., accessed September 1, 2025, [https://github.com/peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)  
+19. Step by step to publish mdBook in gh-pages · Issue \#1803 \- GitHub, accessed September 1, 2025, [https://github.com/rust-lang/mdBook/issues/1803](https://github.com/rust-lang/mdBook/issues/1803)  
+20. How to build mdBook with Github Actions | by katopz | Medium \- Level Up Coding, accessed September 1, 2025, [https://levelup.gitconnected.com/how-to-build-mdbook-with-github-actions-eb9899e55d7e](https://levelup.gitconnected.com/how-to-build-mdbook-with-github-actions-eb9899e55d7e)  
+21. Beginner's Guide To Python Automation Scripts (With Code ..., accessed September 1, 2025, [https://zerotomastery.io/blog/python-automation-scripts-beginners-guide/](https://zerotomastery.io/blog/python-automation-scripts-beginners-guide/)  
+22. 19 Super-Useful Python Scripts to Automate Your Daily Tasks \- Index.dev, accessed September 1, 2025, [https://www.index.dev/blog/python-automation-scripts](https://www.index.dev/blog/python-automation-scripts)  
+23. OpenRouter: A unified interface for LLMs | by Dagang Wei | Medium, accessed September 1, 2025, [https://medium.com/@weidagang/openrouter-a-unified-interface-for-llms-eda4742a8aa4](https://medium.com/@weidagang/openrouter-a-unified-interface-for-llms-eda4742a8aa4)  
+24. Community Providers: OpenRouter \- AI SDK, accessed September 1, 2025, [https://ai-sdk.dev/providers/community-providers/openrouter](https://ai-sdk.dev/providers/community-providers/openrouter)  
+25. Models \- OpenRouter, accessed September 1, 2025, [https://openrouter.ai/models](https://openrouter.ai/models)  
+26. Google AI Studio | Gemini API | Google AI for Developers, accessed September 1, 2025, [https://ai.google.dev/aistudio](https://ai.google.dev/aistudio)  
+27. Google AI Studio, accessed September 1, 2025, [https://aistudio.google.com/](https://aistudio.google.com/)  
+28. Google AI Studio quickstart \- Gemini API, accessed September 1, 2025, [https://ai.google.dev/gemini-api/docs/ai-studio-quickstart](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)  
+29. Google AI Studio for Beginners \- YouTube, accessed September 1, 2025, [https://www.youtube.com/watch?v=IHOJUJjZbzc](https://www.youtube.com/watch?v=IHOJUJjZbzc)  
+30. OpenRouter API Reference | Complete API Documentation ..., accessed September 1, 2025, [https://openrouter.ai/docs/api-reference/overview](https://openrouter.ai/docs/api-reference/overview)  
+31. Completion | OpenRouter | Documentation, accessed September 1, 2025, [https://openrouter.ai/docs/api-reference/completion](https://openrouter.ai/docs/api-reference/completion)  
+32. Summarizing Text Using Hugging Face's BART Model \- DEV Community, accessed September 1, 2025, [https://dev.to/dm8ry/summarizing-text-using-hugging-faces-bart-model-14p5](https://dev.to/dm8ry/summarizing-text-using-hugging-faces-bart-model-14p5)  
+33. How to Build A Text Summarizer Using Huggingface Transformers \- freeCodeCamp, accessed September 1, 2025, [https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/](https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/)  
+34. Pipelines \- Hugging Face, accessed September 1, 2025, [https://huggingface.co/docs/transformers/main\_classes/pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines)  
+35. How to Run LLMs Locally with Ollama \- Medium, accessed September 1, 2025, [https://medium.com/cyberark-engineering/how-to-run-llms-locally-with-ollama-cb00fa55d5de](https://medium.com/cyberark-engineering/how-to-run-llms-locally-with-ollama-cb00fa55d5de)  
+36. Running LLM Locally: A Beginner's Guide to Using Ollama | by Arun Patidar | Medium, accessed September 1, 2025, [https://medium.com/@arunpatidar26/running-llm-locally-a-beginners-guide-to-using-ollama-8ea296747505](https://medium.com/@arunpatidar26/running-llm-locally-a-beginners-guide-to-using-ollama-8ea296747505)  
+37. ollama/ollama: Get up and running with OpenAI gpt-oss ... \- GitHub, accessed September 1, 2025, [https://github.com/ollama/ollama](https://github.com/ollama/ollama)  
+38. Learn Ollama in 15 Minutes \- Run LLM Models Locally for FREE \- YouTube, accessed September 1, 2025, [https://www.youtube.com/watch?v=UtSSMs6ObqY](https://www.youtube.com/watch?v=UtSSMs6ObqY)  
+39. usememos/memos: A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. \- GitHub, accessed September 1, 2025, [https://github.com/usememos/memos](https://github.com/usememos/memos)  
+40. siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. \- GitHub, accessed September 1, 2025, [https://github.com/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)  
+41. Best Open Source Personal Knowledge ... \- OpenAlternative, accessed September 1, 2025, [https://openalternative.co/categories/personal-knowledge-management-pkm/using/rust](https://openalternative.co/categories/personal-knowledge-management-pkm/using/rust)  
+42. Modular: A Fast, Scalable Gen AI Inference Platform, accessed September 1, 2025, [https://www.modular.com/](https://www.modular.com/)  
+43. Modular Documentation | Modular, accessed September 1, 2025, [https://docs.modular.com/](https://docs.modular.com/)  
+44. Get started with Mojo \- Modular docs, accessed September 1, 2025, [https://docs.modular.com/mojo/manual/get-started/](https://docs.modular.com/mojo/manual/get-started/)  
+45. The Modular Platform (includes MAX & Mojo) \- GitHub, accessed September 1, 2025, [https://github.com/modular/modular](https://github.com/modular/modular)
