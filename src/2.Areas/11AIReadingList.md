@@ -1,10 +1,5 @@
 # NON-Research AI Reading List  
 
-
-*PKM is fundamentally about ACCELERATING the learning of/by AI-assisted knowledge management and engineering system ... we can be quite sure that the long-term trend, since 1900, will continue.* **In every five year period there will be roughly 10X more compute available for every dollar spent**. ***The real question is how can we best exploit the full advantage of this compute to accelerate how human systems learn?***  
-
-It's an exciting time to be alive, with almost too much development happening too rapidly; somehow, we have gravitated toward [the Latent Space Pod](https://www.youtube.com/watch?v=_IlTcWciEC4) with [Lance Martin](https://github.com/rlancemartin) of [LangChain](https://python.langchain.com/docs/how_to/tool_calling/) discussing his [training exercises](https://github.com/MarkBruns/open_deep_research_training) for [LangChain's Open Deep Research framework](https://github.com/langchain-ai/open_deep_research), various [AI Engineer videos](https://www.youtube.com/@aiDotEngineer/videos) and especially [Hyung Won Chung's work on how to algorithmically think about incentivization or design-for-more-compute](https://youtu.be/kYWUEV_e2ss), or avoid designing for being constrained by the scale of our current thinking. We need to change the architecture of our LLM implmentations. [Deep Agent applications](https://huggingface.co/spaces/Ayanami0730/DeepResearch-Leaderboard) like ["Langchain Open Deep Research"](https://github.com/langchain-ai/open_deep_research), [“Manus”](https://manus.im/share/I3baB6Ztv92wqAQjLriVvB?replay=1), and [“Claude Code”](https://docs.anthropic.com/en/docs/claude-code/common-workflows) have gotten around this limitation by implementing a combination of four things: a planning tool, sub agents, access to a file system, and a detailed prompt.
-
 ## **The 2025 AI Engineering Reading List: Q3 Update**
 
 The [Latent.Space Reading List for 2025, published 12/27/2024](https://www.latent.space/p/2025-papers), is certainly not a bad start and definitely gives an idea of what we want to develop as we go forward.
