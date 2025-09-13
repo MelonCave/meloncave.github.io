@@ -2,9 +2,11 @@
 
 *You can follow the daily notes in our [journal](https://github.com/AncientGuy/PKM/tree/main/journal) as we go through the 100-day process of developing this Personal Knowledge Management (PKM) system.*
 
+Personal Knowledge Management is all about CONTEXT ... any sort of news, sports, weather data that is pushed at you by others who manage your information flow is going to be about somebody else's context -- thus, effectively ***managing*** one's personal knowledge is entirely about context engineering and developing the architecture of the toolchains that one uses to engineer context -- of course, AI has made it possible for mere mortals, not superprogrammers, to **develop** the tools that give us the KNOWLEDGE that we need to shape our lives.
+
 It is up to each of us to [**DEVELOP our Lives**](https://ancientguy.github.io/) ...  ...  judiciously, but aggressively USING the talents, tools, technologies that we have been blessed with ... thus, **programming ourselves** is a matter of expressing gratitude -- we do it in order to continue to [**more fully develop the richness of our lives**](https://ancientguy.github.io/), to take responsiblity for programming ourselves, mastering and wielding information technology in order to understand its danger and misuse, as we INFORM ourselves. Many who just consume content or food are VERY EFFECTIVELY being weaponized to be weak, hyper-defensive, reactionary liabilities to their communities, their circles of friends or professional colleagues, their families, themselves.
 
-The first 100-day push of our preparation for this involved understanding how we might improve in ten different foundational facets, necessary to sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
+The first 100-day push of our preparation for this larger program was FOUNDATIONAL and involved better understanding how we might improve in ten different foundational facets, necessary to sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
 
 - [Christian Spiritual Health](2.Areas/01ChristianSpiritualHealth.md)
 - [Strength Training](2.Areas/02StrengthTraining.md)
@@ -16,6 +18,8 @@ The first 100-day push of our preparation for this involved understanding how we
 - [Stress Optimization](2.Areas/08StressOptimization.md)
 - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
 - [Mobility, Coordination](2.Areas/10MobilityCoordination.md).
+
+If ANYTHING, 100 days of delving deeply into these topics has reaffirmed our conviction that much of what we are told is at least not exactly appropriate, worthy of extreme skepticism and more than likely just flat out wrong *in the worst possible way that something can be wrong*, ie many aspects are *PARTIALLY* right or make sense in certain contexts but not all contexts. Much of the information on diet, health, fitness that has become part of the conventional wisdom is like the 1992 USDA Food Pyramid -- ***comfortable***, *addictively* deleterious to health, longevitity and effectiveness and enjoyment, especially after 65. **If anyone follows the conventional wisdom, the best that they can expect is to have a lifespan that matches the Social Security actuarial tables AND in the final years of their lives, they will generally be unhealthy and unfit, addicted to prescription medicines and in constant need of medical care and attention.** 
 
 Now it's time for the second 100-day push. Thus, the purpose driving this site is a 100-day curriculum or Personal Knowledge Management (PKM) system. The PKM system that we will develop is not exactly going to be an end in and of itself ... although it *sort of* could be -- the larger purpose of this 100-day curriculum is to build a base, for the third 100-day push to build a Personal Knowledge Engineering (PKE) system. These first 300 days will shape the next 100-day day pushes which are likely about deeper tech-assisted contemplation and deeper investigations of what recovery, rehabilitation and continual rejuvenation are about.
 
