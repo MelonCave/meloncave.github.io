@@ -1,6 +1,6 @@
 # Program Yourself
 
-*You can follow the daily notes in our [journal](https://github.com/AncientGuy/PKM/tree/main/journal) as we go through the 100-day process of developing this Personal Knowledge Management (PKM) system.*
+*You can follow the daily notes in our [journal](https://github.com/AncientGuy/PKM/tree/main/journal) or [track the progress dircetly as we work through the phases](https://github.com/AncientGuy/PKM/projects) of the 100-day process of developing this Personal Knowledge Management (PKM) system.*
 
 Personal Knowledge Management is all about CONTEXT ... any sort of news, sports, weather data that is pushed at you by others who manage your information flow is going to be about somebody else's context -- thus, effectively ***managing*** one's personal knowledge is entirely about context engineering and developing the architecture of the toolchains that one uses to engineer context -- of course, AI has made it possible for mere mortals, not superprogrammers, to **develop** the tools that give us the KNOWLEDGE that we need to shape our lives.
 
