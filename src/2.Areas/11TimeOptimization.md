@@ -1,4 +1,4 @@
-# 19. Time Optimization 
+# Time Optimization and Prioritization 
 
 **What's the marginal ROI for one additional minute of doing an activity?** You can [and maybe should] delve into all of the scientific literature and personal data that you might have to come up with your own best estimate of the marginal impact on additional minutes of quality life that each one of an additional minutes worth of these activities adds to the expectations of life:
 

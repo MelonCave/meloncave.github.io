@@ -1,4 +1,4 @@
-# NON-Research AI Reading List  
+# NON-Research/Product Related AI Reading List  
 
 ## **The 2025 AI Engineering Reading List: Q3 Update**
 
