@@ -2,10 +2,8 @@
 
 - [Program Yourself](Manifesto.md)
 
-- [Deliverables](DELIVERABLES.md)
-  - [Pipeline](./PIPELINE.md)
-  - [Research Dashboard](RESEARCH_DASHBOARD.md)
-  - [Methodology](./nested/METHODOLOGY.md)
+- [Methodology](nested/Roadmap.md)
+  - [PARA Architecture](nested/Architecture.md)
     - [Projects](./1.Projects/Template.md)
       - [Phase I](1.Projects/PhaseI.md)
       - [Phase II](1.Projects/PhaseII.md)
@@ -113,8 +111,6 @@
       - [Podcastering and Outreach](2.Areas/99Podcastering.md)
       - [Personal Knowledge Management Systems ](2.Areas/00PKMSystems.md)
     - [Resources](./3.Resources/Template.md)
-    - [Archives](./4.Archives/Template.md)
-  - [Roadmap](./nested/ROADMAP.md)
-  - [References](References.md)
       - [Resource Management Methodologies In Personal Knowledge Engineering](./nested/nested/001_1.md)
       - [Note Capturing Systems In Personal Knowledge Management](./nested/nested/001_2.md)
+    - [Archives](./4.Archives/Template.md)
