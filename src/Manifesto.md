@@ -11,9 +11,9 @@
 * [Initating The Top Level GitHub Projects Framework](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-11.md)
 * [P.A.R.A. Foundations and Foam Notetaking IDE Extension](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-10.md)
 * [Rust For PKM Dev; Setting Up The mdBook Repository](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-09.md)
-* [Top 10 AncientGuy Fitness Areas; Notes From 100 Prior Days](https://AncientGuy.github.io)
 
-The first 100-day push of our preparation for this larger program was FOUNDATIONAL and involved better understanding how we might improve in ten different foundational facets, necessary to sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
+
+[The first 100-day AncientGuy Fitness push of our preparation for this larger program was FOUNDATIONAL](https://AncientGuy.github.io) and involved better understanding how we might improve in ten different aspect of fitness as foundational building blocks, necessary for the foundation to continually sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
 
 - [Christian Spiritual Health](2.Areas/01ChristianSpiritualHealth.md)
 - [Strength Training](2.Areas/02StrengthTraining.md)
@@ -25,6 +25,8 @@ The first 100-day push of our preparation for this larger program was FOUNDATION
 - [Stress Optimization](2.Areas/08StressOptimization.md)
 - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
 - [Mobility, Coordination](2.Areas/10MobilityCoordination.md).
+
+Although these ten areas are FOUNDATIONAL, they must be continually addressed and improved.
 
 If ANYTHING, 100 days of delving deeply into these topics has reaffirmed our conviction that much of what we are told is at least not exactly appropriate, worthy of extreme skepticism and more than likely just flat out wrong *in the worst possible way that something can be wrong*, ie many aspects are *PARTIALLY* right or make sense in certain contexts but not all contexts. Much of the information on diet, health, fitness that has become part of the conventional wisdom is like the 1992 USDA Food Pyramid -- ***comfortable***, *addictively* deleterious to health, longevitity and effectiveness and enjoyment, especially after 65. 
 
