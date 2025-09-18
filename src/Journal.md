@@ -4,6 +4,7 @@ A big portion of the payback from investing time in development of PKM is in the
 
 ## Journal of PKM Development Thus Far
 
+* [Looking at the Issues in using Cline](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-18.md)
 * [Monetization is key to securing MCP](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-17.md)
 * [Introduction to Cline and OpenRouter](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-16.md)
 * [Understanding GitHub Actions Workflows and Task Automation](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-15.md)
