@@ -1,43 +1,7 @@
 # Program Yourself
 
-*As we build this Personal Knowledge Management (PKM) system, you can [track the PKM projects as we work through the phases](https://github.com/AncientGuy/PKM/projects) in the 100-day process or you might want to follow [the journal in the PKM repo](https://github.com/AncientGuy/PKM/tree/main/journal), particularly the recent days:*
-
-* [Monetization is key to securing MCP](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-17.md)
-* [Introduction to Cline and OpenRouter](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-16.md)
-* [Understanding GitHub Actions Workflows and Task Automation](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-15.md)
-* [Mechanics Behind Automation For MCP and A2A](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-14.md)
-* [Use or Abuse Of Information Technologies](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-13.md)
-* [Thinking Through ALL of the Modules In Five Phases of GitHub Projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-12.md)
-* [Initating The Top Level GitHub Projects Framework](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-11.md)
-* [P.A.R.A. Foundations and Foam Notetaking IDE Extension](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-10.md)
-* [Rust For PKM Dev; Setting Up The mdBook Repository](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-09.md)
-
-
-[The first 100-day AncientGuy Fitness push of our preparation for this larger program was FOUNDATIONAL](https://AncientGuy.github.io) and involved better understanding how we might improve in ten different aspect of fitness as foundational building blocks, necessary for the foundation to continually sustain our capabilities to durably work, be ready to serve, capable of exploring new levels of knowledge and understanding, including:
-
-- [Christian Spiritual Health](2.Areas/01ChristianSpiritualHealth.md)
-- [Strength Training](2.Areas/02StrengthTraining.md)
-- [Cardiovascular Training](2.Areas/03CardiovascularTraining.md)
-- [Nutrition And Gardening](2.Areas/04NutritionGardening.md)
-- [Developing Intelligence](2.Areas/05DevelopingIntelligence.md)
-- [Social Connections](2.Areas/06SocialConnection.md)
-- [Rest, Recovery, Readiness](2.Areas/07RestRecoveryReadiness.md)
-- [Stress Optimization](2.Areas/08StressOptimization.md)
-- [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
-- [Mobility, Coordination](2.Areas/10MobilityCoordination.md).
-
-Although these ten areas are FOUNDATIONAL, they must be continually addressed and improved.
-
-If ANYTHING, 100 days of delving deeply into these topics has reaffirmed our conviction that much of what we are told is at least not exactly appropriate, worthy of extreme skepticism and more than likely just flat out wrong *in the worst possible way that something can be wrong*, ie many aspects are *PARTIALLY* right or make sense in certain contexts but not all contexts. Much of the information on diet, health, fitness that has become part of the conventional wisdom is like the 1992 USDA Food Pyramid -- ***comfortable***, *addictively* deleterious to health, longevitity and effectiveness and enjoyment, especially after 65. 
-
-**COMFORT KILLS!** Mostly, it's the complacency and entitlement to comfort that so extensively weakens the ability to provide for one's sustenance or security.
-
-**If anyone follows the conventional wisdom, the best that they can expect is to have a lifespan that matches the Social Security actuarial tables AND in the final years of their lives, they will generally be unhealthy and unfit, addicted to prescription medicines and in constant need of medical care and attention.** 
-
-Now it's time for the second 100-day push. Thus, the purpose driving this site is a 100-day curriculum or Personal Knowledge Management (PKM) system. The PKM system that we will develop is not exactly going to be an end in and of itself ... although it *sort of* could be -- the larger purpose of this 100-day curriculum is to build a base, for the third 100-day push to build a Personal Knowledge Engineering (PKE) system. These first 300 days will shape the next 100-day day pushes which are likely about deeper tech-assisted contemplation and deeper investigations of what recovery, rehabilitation and continual rejuvenation are about.
-
-## Personal Knowledge Management is all about CONTEXT ENGINEERING
-
+*As we build this Personal Knowledge Management (PKM) system, you can [track the PKM projects as we work through the phases](https://github.com/AncientGuy/PKM/projects) in the 100-day process or you might want to follow [the journal of this PKM process](Journal.md).*
+## Personal Knowledge Management = CONTEXT ENGINEERING
 This includes various structures of assuring context for coherent processing ... any sort of news, sports, weather data that is pushed at you by others who manage your information flow is going to be about somebody else's context -- thus, effectively ***managing*** one's personal knowledge is entirely about context engineering and developing the architecture of the toolchains that one uses to engineer context -- of course, AI has made it possible for mere mortals, not superprogrammers, to **develop** the tools that give us the KNOWLEDGE that we need to shape our lives.
 
 It is up to each of us to [**DEVELOP our Lives**](https://ancientguy.github.io/) ...  ...  judiciously, but aggressively USING the talents, tools, technologies that we have been blessed with ... thus, **programming ourselves** is a matter of expressing gratitude -- we do it in order to continue to [**more fully develop the richness of our lives**](https://ancientguy.github.io/), to take responsiblity for programming ourselves, mastering and wielding information technology in order to understand its danger and misuse, as we INFORM ourselves. Many who just consume content or food are VERY EFFECTIVELY being weaponized to be weak, hyper-defensive, reactionary liabilities to their communities, their circles of friends or professional colleagues, their families, themselves.
@@ -48,7 +12,7 @@ The real point, is not so much about the tech-assisted development of these capa
 
 **The real point or true objective of all this, is not so much about the tech-assisted development of these capablities, rather, it is a meta-objective, which is about stretching or extending human cognitive capabilities *with these technologies* for proficiencies necessary to pursue even more advanced levels of knowledge engineering.**
 
-# **The 100-Day Architect: A Blueprint for an AI-Augmented Personal Knowledge Management System**
+# **The 100-Day Architect: A Blueprint for an AI-Augmented PKM System**
 
 You can, and probably ***should***, use your own preferences and needs for a PKM to develop a better system for you for accomplishing this objective ... the important thing however, is to just get started with some sort of viable 100-day plan and then just steadily work at it. You can tear the plan up and start over after 30 days, but it's important to just get a plan to together that breaks down the work into manageable daily chunks and then get after it. 
 

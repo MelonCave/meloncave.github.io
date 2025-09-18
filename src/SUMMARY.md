@@ -114,3 +114,5 @@
       - [Resource Management Methodologies In Personal Knowledge Engineering](./nested/nested/001_1.md)
       - [Note Capturing Systems In Personal Knowledge Management](./nested/nested/001_2.md)
     - [Archives](./4.Archives/Template.md)
+
+[Journal of this PKM Process](Journal.md)
