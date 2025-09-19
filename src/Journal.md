@@ -4,7 +4,8 @@ A big portion of the payback from investing time in development of PKM is in the
 
 ## Journal of PKM Development Thus Far
 
-* [Practicing **Fundamental** Dev Tasks ... using Cline, et al](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-18.md)
+* [CloudKernelOS Foundation As a Micropayments Commission Agent](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-19.md)
+* [Practicing Fundamental Dev Tasks ... using Cline, et al](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-18.md)
 * [Monetization is key to securing MCP](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-17.md)
 * [Introduction to Cline and OpenRouter](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-16.md)
 * [Understanding GitHub Actions Workflows and Task Automation](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-15.md)
