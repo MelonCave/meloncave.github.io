@@ -4,6 +4,7 @@ A big portion of the payback from investing time in development of PKM is in the
 
 ## Journal of PKM Development Thus Far
 
+* [Cline, Devin, Codex, Other Agentic Tools ... like Zen or Dia](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-20.md)
 * [CloudKernelOS Foundation As a Micropayments Commission Agent](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-19.md)
 * [Practicing Fundamental Dev Tasks ... using Cline, et al](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-18.md)
 * [Monetization is key to securing MCP](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-17.md)
