@@ -2,6 +2,8 @@
 
 - [Program Yourself](Manifesto.md)
 
+- [What's The Big Idea Behind PKM?](BigPicture.md)
+
 - [Journal of this PKM Process](Journal.md)
 
 - [Methodology](nested/Roadmap.md)

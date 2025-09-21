@@ -2,7 +2,7 @@ Personal Knowledge Management (PKM) ... which some might dismiss as just more ef
 
 A big portion of the payback from investing time in development of PKM is in the improvement of how one is aware of how one thinks oneself. *It's not only important to know what one doesn't know, it's important to know something about one's limits in beginning to fathom new waves of information, eg* ***it is vitally important to shut off certain streams of noise entirely*** -- **one needs to understand why certain kinds of noise is so deleterious!**
 
-## Journal of PKM Development Thus Far
+## Daily Journal Notes of PKM Build Thus Far
 
 * [Cline Browser Extension Challenges In The Evolving Toolscape for Agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-21.md)
 * [Cline, Devin, Codex, Other Agentic Tools ... like the Zen or Dia web browsers](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-20.md)
