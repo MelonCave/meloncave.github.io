@@ -1,4 +1,6 @@
-# Program Yourself
+# Program Yourself -- PERSONAL Knowledge Management (PKM)
+
+The per dollar power of compute or all technologies available for knowledge processing multiplies by a factor of 10 every five years ... that same increase has been holding true for at least 150 years, but certainly even greater than a factor of tenfold growth over the last 50 years ... whereas the overall economy, eg vehicles, equipment, buildings, houses, industrial systems, appliances, other durable products and services, basically struggle to double [every five years] in terms of real value or actual levels of productivity or value provided per dollar of purchasing power. In the last few years, there has been a solid, sustained, continuing trend toward integrating AI tools into specialized workflows to enhance efficiency and decision-making -- AI tools for these things is not about the hype; it's all about the proven value for business value addition possible by mastering AI tools, toolchains, workflows. PKM is about doing that, in a verifiable way, for improving the productivity of one's personal knowledge management skillset.
 
 *Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of this PKM process](Journal.md).* Maybe not.
 
