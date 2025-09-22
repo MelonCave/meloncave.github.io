@@ -1,7 +1,15 @@
 # Program Yourself
+
+*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of this PKM process](Journal.md).* Maybe not.
+
 #### The Process Of Managing Knowledge Is About Thinking About The Context of How We Think
-*As we attempt to go through the process of building out this Personal Knowledge Management (PKM) system, you might ask [why would we be trying or how are we trying to improve our personal knowledge management toolchain or what's the big idea behind PKM](BigPicture.md) ... or maybe you want to [track the project details of our progress on the PKM build as we work through the phases](https://github.com/AncientGuy/PKM/projects) in the 100-day process or you might want to read some of the notes in [the daily journal of this PKM process](Journal.md).*
+
+*As we attempt to go through the process of building out this Personal Knowledge Management (PKM) system, you might ask [why would we be trying or how are we trying to improve our personal knowledge management toolchain or what's the big idea behind PKM](BigPicture.md) ... or maybe you want to [track the project details of our progress on the PKM build as we work through the phases](https://github.com/AncientGuy/PKM/projects) in the 100-day process.*
+
 ## Personal Knowledge Management Is CONTEXT ENGINEERING
+
+*Engineering context is about asking questions, sifting, organizing,understanding, organizing, re-organizing information ... in order to have better context, to become better at asking questions and understanding responses.*
+
 Developing a PKM system includes various structures of assuring context for coherent processing ... any sort of news, sports, weather data that is pushed at you by others who manage your information flow is going to be about somebody else's context -- thus, effectively ***managing*** one's personal knowledge is entirely about context engineering and developing the architecture of the toolchains that one uses to engineer context -- of course, AI has made it possible for mere mortals, not superprogrammers, to **develop** the tools that give us the KNOWLEDGE that we need to shape our lives.
 
 It is up to each of us to [**DEVELOP our LIVES**](https://ancientguy.github.io/) ... not to ***LIVE LARGE*** according to the larger purpose that we have discerned from our Creator -- not *live small* order to be someone's customer, employee, spectator, constituent or soldier. ***We are not to live in order to follow our neighbor's rules -- we are to LIVE to follow the purpose our Creator put us on Earth for.*** *Others might have clues ... but no other human* **knows** or should direct us!*

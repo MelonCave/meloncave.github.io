@@ -1,9 +1,6 @@
-Personal Knowledge Management (PKM) ... which some might dismiss as just more efficient notetaking and simply better organization of notes ... because [even a portion of that topic](https://ancientguy.github.io/PKM/2.Areas/00PKMSystems.html) is *worth the effort* to master. Better note organization and even small gains in proficiency in the development of skills for things like summary automation pays one back quicky over very little time. 
-
-A big portion of the payback from investing time in development of PKM is in the improvement of how one is aware of how one thinks oneself. *It's not only important to know what one doesn't know, it's important to know something about one's limits in beginning to fathom new waves of information, eg* ***it is vitally important to shut off certain streams of noise entirely*** -- **one needs to understand why certain kinds of noise is so deleterious!**
-
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Be Better At Asking Questions, Understanding, Organizing Information](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-22.md)
 * [Cline Browser Extension Challenges In The Evolving Toolscape for Agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-21.md)
 * [Cline, Devin, Codex, Other Agentic Tools ... like the Zen or Dia web browsers](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-20.md)
 * [CloudKernelOS Foundation As a Micropayments Commission Agent](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-19.md)
@@ -17,6 +14,10 @@ A big portion of the payback from investing time in development of PKM is in the
 * [Initating The Top Level GitHub Projects Framework](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-11.md)
 * [P.A.R.A. Foundations and Foam Notetaking IDE Extension](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-10.md)
 * [Rust For PKM Dev; Setting Up The mdBook Repository](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-09.md)
+
+Personal Knowledge Management (PKM) ... which some might dismiss as just more efficient notetaking and simply better organization of notes ... because [even a portion of that topic](https://ancientguy.github.io/PKM/2.Areas/00PKMSystems.html) is *worth the effort* to master. Better note organization and even small gains in proficiency in the development of skills for things like summary automation pays one back quicky over very little time. 
+
+A big portion of the payback from investing time in development of PKM is in the improvement of how one is aware of how one thinks oneself. *It's not only important to know what one doesn't know, it's important to know something about one's limits in beginning to fathom new waves of information, eg* ***it is vitally important to shut off certain streams of noise entirely*** -- **one needs to understand why certain kinds of noise is so deleterious!**
 
 ### 100-Day Foundational Devlopment BEFORE PKM
 
