@@ -25,7 +25,7 @@
       - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
       - [Mobility, Coordination](2.Areas/10MobilityCoordination.md)
       - [Time Optimization, Prioritization](2.Areas/11TimeOptimization.md)
-      - [GYG Economy, Side-Hustles, Generating Cash](2.Areas/12SideHustle.md)
+      - [Portfolio Lifestyle](2.Areas/12SideHustle.md)
       - [AR/VR, Virtual Workflows/Events](2.Areas/13ARVRArtificialDad.md)
       - [Neurohacking, Brain Optimization, Neuromorphic Computing](2.Areas/14NeurohackingNeuromorphic.md)
       - [Quantum Technologies](2.Areas/15QuantumTechnologies.md)
