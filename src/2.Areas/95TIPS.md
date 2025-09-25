@@ -1,8 +1,12 @@
 # **TRIZ, Technological Intelligence and Optimizing Second Mover Advantage**
 
-*Here's a tip ... if you want to be the most innovative* ... **ditch your ego!**  Let somebody else invent things.*
+*Here's a TIP ... if you want to be the most innovative* ... **ditch your ego!**  Celebrate creativity, celebrate the success of other creations, let somebody else create ... understand the principles of how things work or don't ... reuse the principles.*
 
-You can study the lessons of [TRIZ](https://en.wikipedia.org/wiki/TRIZ) ... or maybe [think about inventing your own 100 day innovation curriculum](#section-9-the-100-day-deep-dive---a-comprehensive-study-plan) ... TRIZ.tips, DRAIN.tips, ArtificialDad.Net, AccidentalInvention.com are just a few of the ideas that I have been kicking around for some time.  You could say that it's all about Second Mover Advantage or adapting the best ideas when those ideas become boring and less trendy or newsworthy ... it's just not that important to have the patents, to be the most inventive, but it is necessary to be the ***best*** at observing, understanding, and then efficiently adapting good ideas ... not necessarily *stealing* those ideas -- in many cases, it's a matter of humility and licensing the best ideas RATHER than avoiding the #NotInventedHere ideas ... it's about the DISCIPLINE of *being the best* in efficient adaptation, RATHEr than invention.
+You could say that it's all about Second Mover Advantage or adapting the best ideas when those ideas become boring and less trendy or newsworthy ... it's just not that important to have the patents, to be the most inventive, but it is necessary to be the ***best*** at observing, understanding, and then efficiently adapting good ideas ... not necessarily *stealing* those ideas -- in many cases, it's a matter of humility and licensing the best ideas RATHER than avoiding the #NotInventedHere ideas ... it's about the DISCIPLINE of *being the best* in efficient ***adaptation***, RATHER than invention of something with no precedent whatsoever.
+
+The Theory of Inventive Problem Solving (TIPS) is just that ... 2nd mover advantage ... using the creativity of millions or billions of small creative efforts algorithmically to APPLY principles and learn more efficiciently through broader application of imaginative ideas ... of course, it's still trial and error, but at least the trial part is about trying something that has worked elsewhere in what one believes MIGHT be an analogously applicable situation. 
+
+You can study the lessons of [TRIZ](https://en.wikipedia.org/wiki/TRIZ) ... or maybe [think about inventing your own 100 day innovation curriculum](#section-9-the-100-day-deep-dive---a-comprehensive-study-plan) ... TRIZ.tips, DRAIN.tips, ArtificialDad.Net, AccidentalInvention.com are just a few of the ideas that I have been kicking around for some time.  
 
 ### **Architects of Innovation STEAL \- The Systematization of Creativity**
 

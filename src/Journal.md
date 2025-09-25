@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Drilling deeper with middleware, going beyond shallow agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-24.md)
 * [YAGNI ... YOU AIN'T GONNA NEED IT!!!](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-24.md)
 * [The ol' bait-and-switch ... why the singularity ain't gonna happen](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-23.md)
 * [Be Better At Asking Questions, Understanding, Organizing Information](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-22.md)
