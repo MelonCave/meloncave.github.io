@@ -1,6 +1,7 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
-* [Drilling deeper with middleware, going beyond shallow agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-24.md)
+* [Building an AI-Assisted Static "Public Square" for Asynch Discussions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-26.md)
+* [Drilling deeper with middleware, going beyond shallow agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-25.md)
 * [AI-assisted deep research intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-24.md)
 * [The ol' bait-and-switch ... why the singularity ain't gonna happen](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-23.md)
 * [Be Better At Asking Questions, Understanding, Organizing Information](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-22.md)
