@@ -1,0 +1,5 @@
+99 Podcastering and Outreach
+
+The POINT of podcastering for us is STRICTLY personal growth ... a matter of outreach, exploration of our own knowledge landscape ... reaching out to researchers and others who might share similar goals ... although we might care about people who we can have conversations with -- we sort of don't care about listeners, except that we *sorta* get it, ie nobody's going to want to waste time being involved in our podcast if there are no listeners. We don't mind if people listen, but the POINT of the podcast is strictly about OUTREACH ... thus ENTIRELY about the *conversations.*
+
+We started thinking about how we might do [a four-phase quantified evalation or designed experiment in podcastering](https://g.co/gemini/share/3da89f50addf) ... and this includes looking seriously at [people who take podcasting very seriously, such as Podnews.net](https://podnews.net/archive) which is daily podcast industry newsletter/archive curated by James Cridland. A serious attempt at doing podcasting might give us the best opportunity to contextualise our own knowledge landscape.

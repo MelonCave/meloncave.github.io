@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [mdBook functionality for exploration of model and algorithmic frontiers](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-28.md)
 * [Primary mdBook functionality built on AlphaXiv direction](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-27.md)
 * [Building an AI-Assisted Static "Public Square" for Asynch Discussions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-26.md)
 * [Drilling deeper with middleware, going beyond shallow agents](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-25.md)
