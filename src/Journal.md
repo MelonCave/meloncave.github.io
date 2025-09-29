@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Best platform for building Rust-based AI Agents, APIs, tools](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-29.md)
 * [mdBook functionality for exploration of model and algorithmic frontiers](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-28.md)
 * [Primary mdBook functionality built on AlphaXiv direction](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-27.md)
 * [Building an AI-Assisted Static "Public Square" for Asynch Discussions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-26.md)
