@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Models, cliches, root causes, likely suspects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-30.md)
 * [Best platform for building Rust-based AI Agents, APIs, tools](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-29.md)
 * [mdBook functionality for exploration of model and algorithmic frontiers](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-28.md)
 * [Primary mdBook functionality built on AlphaXiv direction](https://github.com/AncientGuy/PKM/tree/main/journal/2025-09-27.md)
