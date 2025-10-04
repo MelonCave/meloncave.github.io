@@ -105,7 +105,7 @@
       - [CloudKernel OS](2.Areas/89CloudKernelOS.md)
       - [Nanotoolworks](2.Areas/90Nanotoolworks.md)
       - [Venture Philanthropy](2.Areas/91VenturePhilanthropy.md)
-      - [Funnier.BE](2.Areas/92HumorEngineering.md)
+      - [AI-Assisted Art Appreciation](2.Areas/92ArtAppreciation.md)
       - [Asynchronoous Workflow](2.Areas/93AsynchronoousWorkflow.md)
       - [Hard Science Fiction](2.Areas/94HardScienceFiction.md)
       - [Second Mover Advantage](2.Areas/95TIPS.md)
