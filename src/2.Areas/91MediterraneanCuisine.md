@@ -1,6 +1,6 @@
 # Potager Garden Mediterranean Cuisine Appreciation Course
 
-# **Potager Garden Cuisine Appreciation**
+**An AI-Assisted Course in Art Appreciation & Analysis: Course Structure at a Glance**
 
 This curriculum presents a comprehensive journey into the world of the potager garden and the attendant Mediterranean diet cuisine, framed not merely as a set of horticultural and culinary skills, but as a holistic art appreciation course. The central thesis is that the potager garden is a living canvas, a dynamic work of art that evolves with the seasons, and the cuisine it inspires is the ultimate expression of that art. This course is designed to cultivate a deeper understanding of a philosophy that seamlessly integrates beauty with utility, connects the gardener to the cycles of nature, and celebrates the rich heritage of Mediterranean foodways. The journey begins with the historical context of the potager, a concept that grew from the humble necessity of providing ingredients for *le potage*, a thick vegetable soup, yet blossomed into a sophisticated expression of aesthetic pleasure and design.1 By approaching the garden as an art form, this course aims to guide the student toward a more intentional, sustainable, and flavorful way of life, where the process is as enriching as the harvest itself.
 
