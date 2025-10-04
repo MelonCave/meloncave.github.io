@@ -1,6 +1,6 @@
-# **Algorithmic Eye: AI and Art Appreciation**
+# **Algorithmic Eye: Building The AI Tools For Art Appreciation**
 
-## **Building The New Digital Atelier For Art Appreciation**
+[**Art Appreciation-Driven AI Development Course Structure at a Glance: Building The Technology For A New Digital Atelier**](https://g.co/gemini/share/09b21e45efd0)
 
 The discipline of art appreciation has long been dedicated to cultivating a refined mode of seeing—an ability to analyze visual information, understand historical context, and articulate the complex interplay of form and meaning. This curriculum proposes a radical evolution of that tradition by introducing a new partner into the process of interpretation: artificial intelligence.
 
