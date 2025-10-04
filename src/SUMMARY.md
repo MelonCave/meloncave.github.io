@@ -104,7 +104,7 @@
       - [Professional TempServices](2.Areas/88AIassistedTempServices.md)
       - [CloudKernel OS](2.Areas/89CloudKernelOS.md)
       - [Nanotoolworks](2.Areas/90Nanotoolworks.md)
-      - [Venture Philanthropy](2.Areas/91VenturePhilanthropy.md)
+      - [Mediterranean Cuisine Appreciation](2.Areas/91MediterraneanCuisine.md)
       - [AI-Assisted Art Appreciation](2.Areas/92ArtAppreciation.md)
       - [Asynchronoous Workflow](2.Areas/93AsynchronoousWorkflow.md)
       - [Hard Science Fiction](2.Areas/94HardScienceFiction.md)
