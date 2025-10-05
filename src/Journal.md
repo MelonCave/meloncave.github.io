@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [A Project, to dev separate repos each with its own P.A.R.A. structure, for EVERY Area](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-05.md)
 * [Wafer-scale integration (WSI) / wafer-scale engineering (WSE) performance advantages for AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-04.md)
 * [The future and HISTORY of GPUs, AI and scientific compute](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-03.md)
 * [BEYOND compute, we'll need higher quality data, better algorithms, better dev communities](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-02.md)
