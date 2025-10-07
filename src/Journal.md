@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [EVEN more on the P.A.R.A. structured PKM/PKE projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-07.md)
 * [MORE on developing P.A.R.A. structured PKE workflows](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-06.md)
 * [A Project, to dev separate repos each with its own P.A.R.A. structure, for EVERY Area](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-05.md)
 * [Wafer-scale integration (WSI) / wafer-scale engineering (WSE) performance advantages for AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-04.md)
