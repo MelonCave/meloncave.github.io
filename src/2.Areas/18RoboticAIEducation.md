@@ -1,8 +1,6 @@
 # 18. HROS.dev, Educational Opportunities in Robotics and Automation Tech  
 
-TerraFirma and Gauntlet
-
-This is about skills development ... especially for HARSH environments, for going beyond places that humans and easily go.
+We can think about various advanced edtech approachers like TerraFirma and Gauntlet ... the point of doing is about practical hands-on skills development in way that pays its own way ... not for playing around with robotic toy kits or science projects or well-behaved industrial robots or even Musk's humanoid robots ... this is for especially for [HROS, Robotic Operating System Development For HARSH (Heterogenous, Autonomous, Remote, Swarming, Hostile) Environments](https://hrosdev.github.io/) ... for things that have to work, when humans can't or shouldn't be be there -- for staying off out of the way, but going beyond places that humans can easily go ... wars, deep oceans, deep underground, space, toxic environments, extreme temperatures, extreme pressures ... and we can PRACTICE doing the ROS development with things like agricultural robot proving grounds.
 
 # HARSH (Heterogeneous Autonomous Remote Swarming Hostile) Robotic Operating System Development
 
