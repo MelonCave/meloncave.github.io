@@ -1,6 +1,14 @@
-## Side-Hustle, Gig Economy, Startup Founder, Project Talent Market Awareness
+## Nomadic Portfolio Lifestyle
 
-If the education system were doing its job, it would be teaching everyone how to build a **portfolio lifestyle** ... but it isn't ... so you have to figure it out on your own, and learn as you go along in what be referred to as the *School of Hard Knocks,* which confers diplomas in *street smarts* and never needing to be a slave to an employer. There's nothing wrong with working for someone else, but you want to have the *street smarts* of the business world and markets for different things, including talent and skilled labor, to be in control of your own destiny, and not be at the mercy of one single employer. 
+### Beyond side-hustles, the gig economy, startup *foundering*, project talent market awareness ...
+
+If the education system were doing its job, it would be teaching everyone how to build a *portfolio lifestyle* ... or hopefully an even more independent **NOMADIC portfolio lifestyle**.
+
+But the education system is for stabilizing the already calcified, that means it produces w2 slaves and the modern version of cannon fodder ... 
+
+Independent people have to figure things out like **NOMADIC portfolio lifestyles** on their own, except it's easier now with AI and radically improved AI-mode google search. With AI, it's not necessary to ONLY learn as you go along in what be referred to as the *School of Hard Knocks,* which confers diplomas in *street smarts* and never needing to be a slave to an employer ... spending time in the school of hard knocks is still necessary, but one can eliminate a lot of the stupid, pointless choices with some time spent doing AI-assisted research. 
+
+Of course, we should emphasize, there's nothing wrong with working for someone else [for a few years], but you want to have the *street smarts* of the business world and markets for different things, including talent and skilled labor, to be in control of your own destiny, and not be at the mercy of one single employer. 
 
 There's always A SYSTEM involved to [architect one's life of maximized freedom](https://g.co/gemini/share/15c515d1593e) ... but freedom is really about lifestyle that is *never about getting comfortable and always being ready to scramble*.  Specifically, the [**nomadic portfolio lifestyle**](https://docs.google.com/document/d/1ok3MXKR6SCQQ1JJb1L-ZRG1uXySQblYdOG5X0oq6RLE/edit?usp=sharing), in which one is always **shrewdly** cultivating a portifolio of financial assets and opportunities ... you start exploring with a [workable playbook for a boilerplate system from the usual suspects](https://g.co/gemini/share/09b8777dc1f4)... and, after you have a bit of experience and success, you will come up with an even better starting template and THEN you assiduously improve upon your multi-income-stream system for personal, professional, financial growth.
 
