@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Competitively building out ventures for intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-09.md)
 * [Side-hustles, gigs, startups, auctioneering, being market savvy](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-08.md)
 * [EVEN more on the P.A.R.A. structured PKM/PKE projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-07.md)
 * [MORE on developing P.A.R.A. structured PKE workflows](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-06.md)
