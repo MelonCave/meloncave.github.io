@@ -22,7 +22,7 @@
       - [Social Connection](2.Areas/06SocialConnection.md)
       - [Rest, Recovery, Readiness](2.Areas/07RestRecoveryReadiness.md)
       - [Stress Optimization](2.Areas/08StressOptimization.md)
-      - [Hydration, Meridians](2.Areas/09HydrationMeridians.md)
+      - [Hydration, Circulation, Flow](2.Areas/09HydrationMeridians.md)
       - [Mobility, Coordination](2.Areas/10MobilityCoordination.md)
       - [Time Optimization, Prioritization](2.Areas/11TimeOptimization.md)
       - [Portfolio Lifestyle](2.Areas/12PortfolioLifestyle.md)
