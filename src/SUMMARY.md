@@ -82,7 +82,7 @@
       - [66](2.Areas/66.md)
       - [67](2.Areas/67.md)
       - [68](2.Areas/68.md)
-      - [69](2.Areas/69.md)
+      - [Organometallic Chemistry](2.Areas/69OrganometallicChemistry.md)
       - [70](2.Areas/70PhysicalChemistry.md)
       - [71](2.Areas/71.md)
       - [72](2.Areas/72.md)
