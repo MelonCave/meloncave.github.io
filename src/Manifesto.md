@@ -1,10 +1,14 @@
 # Program Yourself -- PERSONAL Knowledge Management (PKM)
 
-PKM is about knowledge managed for a particular purpose, specifically for PRIORITIZATION and using information and knowledge to drive improvements in optimized portfolios of resources.
+PKM is about knowledge managed for a particular purpose, specifically for PRIORITIZATION or use of better intelligence gathering, to improve information and obtain better knowledge to drive improvements in optimized portfolios of time/resources.
 
-We use information technology because the per dollar power of compute or all technologies available for knowledge processing multiplies by a factor of 10 every five years ... that same increase has been holding true for at least 150 years, but certainly even greater than a factor of tenfold growth over the last 50 years ... whereas the overall economy, eg vehicles, equipment, buildings, houses, industrial systems, appliances, other durable products and services, basically struggle to double [every five years] in terms of real value or actual levels of productivity or value provided per dollar of purchasing power. In the last few years, there has been a solid, sustained, continuing trend toward integrating AI tools into specialized workflows to enhance efficiency and decision-making -- AI tools for these things is not about the hype; it's all about the proven value for business value addition possible by mastering AI tools, toolchains, workflows. PKM is about doing that, in a verifiable way, for improving the productivity of one's personal knowledge management skillset.
+*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of this PKM process](Journal.md).* Or, maybe you'd find that a little unnerving or overwhelming ... or *just plain useless*.
 
-*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of this PKM process](Journal.md).* Maybe not.
+We use information technology because the per dollar power of compute or all technologies available for knowledge processing multiplies by a factor of 10 every five years ... and has done so for some time. Given the social nature of shared knowledge, that might just be the defining character of the human intelligence explaining much of the dominance of our species relative to other species.
+
+That same increase in information technology competence has been holding true for at least 150 years or much longer, with greater than tenfold growth [in terms of processing power per $] over the last 50 years ... whereas the overall economy, eg vehicles, equipment, buildings, houses, industrial systems, appliances, other durable products and services, basically struggle to double [every five years] in terms of real value or actual levels of productivity or value provided per dollar of purchasing power. 
+
+In the last decade or so, there has been a solid, sustained, continuing trend toward integrating AI tools into specialized workflows to enhance efficiency and decision-making -- AI tools for these things is not about the hype; it's all about the proven value for business value addition possible by mastering AI tools, toolchains, workflows. PKM is about doing that, in a verifiable way, for improving the productivity of one's personal knowledge management skillset.
 
 #### The Process Of Managing Knowledge Is About Thinking About The Context of How We Think
 
