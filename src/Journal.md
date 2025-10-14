@@ -1,6 +1,7 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
-* [Multi-Agent AI Systems (MAS), from optimized prompts to collaborative intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-13.md)
+* [Deeper push into incentivized DeSci and collaborative intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-14.md)
+* [Multi-Agent AI Systems (MAS): from optimized prompting to decentralized science (DeSci)](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-13.md)
 * [Toward data-driven iterative context engineering, building on manual prompting techniques](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-12.md)
 * [Implementation of prioritization techniques](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-11.md)
 * [First experts doubt their own expertise, before understanding what truly might just work](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-10.md)
