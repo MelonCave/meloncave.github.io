@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [GauntletAI is redefining education; emergent learning communities are another example](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-15.md)
 * [Deeper push into incentivized DeSci and collaborative intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-14.md)
 * [Multi-Agent AI Systems (MAS): from optimized prompting to decentralized science (DeSci)](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-13.md)
 * [Toward data-driven iterative context engineering, building on manual prompting techniques](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-12.md)
