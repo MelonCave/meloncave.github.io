@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Disposable hackery is here to stay; so is dependable, peer-reviewed code](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-16.md)
 * [GauntletAI is redefining education; emergent learning communities are another example](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-15.md)
 * [Deeper push into incentivized DeSci and collaborative intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-14.md)
 * [Multi-Agent AI Systems (MAS): from optimized prompting to decentralized science (DeSci)](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-13.md)
