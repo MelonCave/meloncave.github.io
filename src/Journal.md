@@ -1,6 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
-* [Understanding the ***GROWING*** "AI software lag" of AMD ROCm](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-17.md)
+* [NVIDIA's memory bandwidth superiority and its ***GROWING*** "AI software ecosystem lead"](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-17.md)
 * [Disposable hackery is here to stay; so is dependable, peer-reviewed code](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-16.md)
 * [GauntletAI is redefining education; emergent learning communities are another example](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-15.md)
 * [Deeper push into incentivized DeSci and collaborative intelligence gathering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-14.md)
