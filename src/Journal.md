@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [The POINT of PKM/PKE is better knowledge ... to attain more perfect anonymity](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-19.md)
 * [Deeper into DeepWiki for peer-reviewed interrogation of bottlenecks and constraints](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-18.md)
 * [NVIDIA's memory bandwidth superiority and its ***GROWING*** "AI software ecosystem lead"](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-17.md)
 * [Disposable hackery is here to stay; so is dependable, peer-reviewed code](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-16.md)
