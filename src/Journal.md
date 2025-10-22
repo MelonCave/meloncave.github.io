@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [The Digital Saloon: open source dev, preprints by gunslingers and other dangerous ideas](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-22.md)
 * [Adapting screening methods to PKE screening of scientific research discovery trends](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-21.md)
 * [Blueprint for a Community-Driven, Open-Source Agricultural Enterprise](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-20.md)
 * [The POINT of PKM/PKE is better knowledge ... to attain more perfect anonymity](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-19.md)
