@@ -1,5 +1,6 @@
 ## Daily Journal Notes of PKM Build Thus Far
 
+* [Exercise is not complicated; find ways to exercise more, whereas health insurance is ...](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-23.md)
 * [The Digital Saloon: open source dev, preprints by gunslingers and other dangerous ideas](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-22.md)
 * [Adapting screening methods to PKE screening of scientific research discovery trends](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-21.md)
 * [Blueprint for a Community-Driven, Open-Source Agricultural Enterprise](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-20.md)
