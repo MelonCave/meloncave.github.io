@@ -1,2 +1,0 @@
-# Write a new blog post
-
