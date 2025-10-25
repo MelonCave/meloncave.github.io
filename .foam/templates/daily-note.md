@@ -11,13 +11,19 @@ Customize the `.foam/templates/daily-note.md` ... using the following variables 
 - `${FOAM_DATE_DATE}`: The day of the date
 - `${FOAM_TITLE}`: The title of the note
 
-# To Do
+
+# To Actually Do
 *   [[Develop Project ideas]]
-*   [[Write a new blog post]]
 
 # In Progress
 *   [[Outline presentation for meeting]]
 
 # Done
-*   [[Prepare project brief]]
+*   [[Prepare summary with TOC]]
 
+# Backburner, Will Do
+*   [[Sketch a new blog post]]
+
+# Parking Lot
+
+* [[Interesting but probably a distraction]]
