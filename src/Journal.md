@@ -1,5 +1,6 @@
-## Daily Journal Notes of PKM Build Thus Far
+## Daily Journal Notes
 
+* [Simplification and continuous improvment/refocus/refactoring in PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-26.md)
 * [Revisit basic PKM for simple consistency in daily ToDo lists for Portfolio Lifestyle](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-25.md)
 * [PKE is enabling technology for The Sovereign Individual](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-24.md)
 * [Exercise is not complicated; find ways to exercise more, whereas health insurance is ...](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-23.md)

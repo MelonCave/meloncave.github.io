@@ -3,7 +3,7 @@ foam_template:
   filepath: "/journal/${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}.md"
   description: "Daily note template"
 ---
-# ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}
+# Journal: ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}
 
 Customize the `.foam/templates/daily-note.md` ... using the following variables in the template:
 - `${FOAM_DATE_YEAR}`: The year of the date
@@ -11,19 +11,16 @@ Customize the `.foam/templates/daily-note.md` ... using the following variables 
 - `${FOAM_DATE_DATE}`: The day of the date
 - `${FOAM_TITLE}`: The title of the note
 
+## Journal Background 
 
-# To Actually Do
-*   [[Develop Project ideas]]
+## Project - In Progress
+* [[Projects Focused On for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
-# In Progress
-*   [[Outline presentation for meeting]]
+## Area - Ongoing Improvement 
+* [[Continuous Improvement Areas for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
-# Done
-*   [[Prepare summary with TOC]]
+## Resources - Mostly Done, Review
+* [[Reviewed Resources for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
-# Backburner, Will Do
-*   [[Sketch a new blog post]]
-
-# Parking Lot
-
-* [[Interesting but probably a distraction]]
+## Archives - Parking Lot
+* [[Archived Items for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
