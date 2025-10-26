@@ -13,14 +13,14 @@ Customize the `.foam/templates/daily-note.md` ... using the following variables 
 
 ## Journal Background 
 
-## Project - In Progress
+## Project - In Progress Focus
 * [[Projects Focused On for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
 ## Area - Ongoing Improvement 
 * [[Continuous Improvement Areas for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
-## Resources - Mostly Done, Review
+## Resources - Review, Refactor
 * [[Reviewed Resources for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
 
-## Archives - Parking Lot
+## Archives - Park, Eliminate
 * [[Archived Items for ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}]]
