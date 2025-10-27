@@ -1,6 +1,6 @@
 ---
 title: Social Connection
-type: "Project"
+type: project
 tags: goals
 alias: ideation
 ---
