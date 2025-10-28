@@ -1,26 +1,15 @@
 ---
-foam_template:
-  filepath: "/staging/${FOAM_TITLE}.md"
-  description: "Project template"
-  title: ${FOAM_TITLE}
-  date: ${FOAM_DATE_YMD}
-  type: project
-  tags: plan, do, check, act
-  alias: alias1, alias2
----
-
----
-title: ${FOAM_TITLE}
+title: bioRxiv Developmental Biology
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# ${FOAM_TITLE}
+# bioRxiv Developmental Biology
 
 ## Metadata
 
-This Project was created on `${FOAM_DATE_YEAR}` `${FOAM_DATE_MONTH}` `${FOAM_DATE_DATE}` with the template located at `.foam/templates/projects.md` in an attempt to optimize the machine-readability for automating notes in the future, using [note properties](https://github.com/foambubble/foam/blob/main/docs/user/features/note-properties.md), [templates](https://github.com/foambubble/foam/blob/main/docs/user/features/templates.md), and [graph visualization](https://github.com/foambubble/foam/blob/main/docs/user/features/graph-view.md). 
+This Project was created on `2025` `10` `28` with the template located at `.foam/templates/projects.md` in an attempt to optimize the machine-readability for automating notes in the future, using [note properties](https://github.com/foambubble/foam/blob/main/docs/user/features/note-properties.md), [templates](https://github.com/foambubble/foam/blob/main/docs/user/features/templates.md), and [graph visualization](https://github.com/foambubble/foam/blob/main/docs/user/features/graph-view.md). 
 
 As with most tools, [**Foam** *is like a bathtub -- what you get out of it depends on* ***what you put into it each day.***](https://github.com/foambubble/foam/blob/main/docs/user/index.md). Minimizing context-switching is a matter of daily repitition and discipline built upon reviewing and better using [essential VS Code keybindings](https://code.visualstudio.com/docs/configure/keybindings). This even goes beyond the [Foam extension's VS Code shortcuts for note-taking](https://github.com/foambubble/foam/blob/main/docs/user/getting-started/note-taking-in-foam.md#keyboard-shortcuts). 
 

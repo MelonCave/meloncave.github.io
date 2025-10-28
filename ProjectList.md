@@ -1,6 +1,8 @@
 # Project List
 
-### The Following Are MVP For Staging
+### The Following Are MVP For STAGING
+
+*20 or AI should be moved to 29 ... to give an open slot to 20*
 
 * [Christian Spiritual Health](../src/1.Projects/staging/01ChristianSpiritualHealth.md)
 * [Strength Training](../src/1.Projects/staging/02StrengthTraining.md)
@@ -22,9 +24,6 @@
 * [Robotic and AI Tech Education](../src/1.Projects/staging/18RoboticAIEducation.md)  
 * [Theses and Dissertations](../src/1.Projects/staging/19ThesesDissertations.md)  
 * [arXiv AI](../src/1.Projects/staging/20arXivAI.md)
-
-### The Following Are Ready To Begin Staging With Use of `projects.md` Template
-
 * [arXiv CS, not AI](../src/1.Projects/staging/21arXivCS.md)  
 * [arXiv Economics](../src/1.Projects/staging/22arXivEconomics.md)  
 * [arXiv EE, Systems Science](../src/1.Projects/staging/23arXivEESS.md)  
