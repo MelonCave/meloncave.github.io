@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Project STAGING per BASB P.A.R.A. PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-28.md)
 * [Refocus/refactoring in PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-27.md)
 * [Simplification and continuous improvment in PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-26.md)
 * [Revisit basic PKM for consistency in daily ToDo lists for Portfolio Lifestyle](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-25.md)
