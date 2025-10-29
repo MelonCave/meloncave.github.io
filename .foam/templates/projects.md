@@ -36,6 +36,8 @@ In addition to VS Code and the Foam extension, we will rely upon the GitHub Disc
 
 ### P.A.R.A. Project Mgmt Review
 
+The *holy grail* of the PKM project investigations or [emergent phenomena](https://en.wikiversity.org/wiki/Understanding_Emergence/List_of_emergent_phenomena) is possibly something like [emergent neuromorphology or sparking something embryonic morphogenesis](https://grok.com/share/c2hhcmQtMi1jb3B5_08973e84-67af-4db9-a382-2292404a8b74) in complex organisms like humans which starts with cells migrate via gradients; then adhesion sorts types and shapes organs such that incredibly complex physiological lifeforms elegantly emerges from relatively simple cues. The patterns or behaviors we seek from new research discoveries would ***noteworthy*** when are not explicitly programmed or predictable from the properties of individual components, but rather emerge as a result of their interactions ... such that a better, more complete understanding of emergence OR new components might be ***useful***. 
+
 A Project is the start of a bigger development commitment and the basis of the P.A.R.A. method of the [*Building a Second Brain* (BASB)](https://fortelabs.com/blog/category/building-a-second-brain/) methodology. The P.A.R.A. ***methodological architecture*** systematically manages information differently than mere notetaking apps:
 
 * **PROJECTS**, have SMART goals, minimal completion reqmts and deadlines
