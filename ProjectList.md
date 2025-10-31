@@ -74,19 +74,19 @@
 * [ChemRxiv Organic Chemistry](../src/1.Projects/staging/68OrganicChemistry.md)
 * [ChemRxiv Organometallic Chemistry](../src/1.Projects/staging/69OrganometallicChemistry.md)
 * [ChemRxiv Physical Chemistry](../src/1.Projects/staging/70PhysicalChemistry.md)
-
-### The Following Need A Projects File To Be Created Before Being Added to Above List
-
 * [ChemRxiv Polymer Science](../src/1.Projects/staging/71PolymerScience.md)
-* [ChemRxiv Theoretical and Computational Chemistry](../src/1.Projects/staging/72.md)
+* [ChemRxiv Theoretical and Computational Chemistry](../src/1.Projects/staging/72ComputationalChemistry.md)
 * [medRxiv](../src/1.Projects/staging/73medRxiv.md)
 * [SocArXiv, SSRN or Similar](../src/1.Projects/staging/74SocArXivSSRN.md)
 * [PsyArXiv](../src/1.Projects/staging/75PsyArXiv.md)
 * [EarthArXiv](../src/1.Projects/staging/76EarthArXiv.md)
 * [engrXiv](../src/1.Projects/staging/77engrXiv.md)
-* [Various Multidisciplinary / Interdisciplinary](../src/1.Projects/staging/78MultidisciplinaryInterdisciplinary.md)
+* [Various Multidisciplinary / Interdisciplinary Rxiv](../src/1.Projects/staging/78MultidisciplinaryInterdisciplinary.md)
 * [Rxiv In Other Langauges](../src/1.Projects/staging/79RxivInOtherLangauges.md)
 * [TechRxiv](../src/1.Projects/staging/80TechRxiv.md)
+
+### The Following Need A Projects File To Be Created Before Being Added to Above List
+
 * [AgriXiv](../src/1.Projects/staging/81AgriXiv.md)
 * [LawArXiv](../src/1.Projects/staging/82LawArXiv.md)
 * [EcoEvoRxiv](../src/1.Projects/staging/83EcoEvoRxiv.md)
