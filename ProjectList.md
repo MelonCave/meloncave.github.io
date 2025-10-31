@@ -2,7 +2,7 @@
 
 ### The Following Are MVP For STAGING
 
-*20 or AI should be moved to 29 ... to give an open slot to 20*
+*NOTE on re-ordering: As an example, perhaps 29DSL should be moved from 29 to 20, to start pre-prints at 20 ... not that it matters ... there are probably other reorderings, so all reorderings are put off for now*
 
 * [Christian Spiritual Health](../src/1.Projects/staging/01ChristianSpiritualHealth.md)
 * [Strength Training](../src/1.Projects/staging/02StrengthTraining.md)
@@ -31,8 +31,8 @@
 * [arXiv Physics](../src/1.Projects/staging/25arXivPhysics.md)  
 * [arXiv Quantitative Biology](../src/1.Projects/staging/26arXivQuantitativeBiology.md)  
 * [arXiv Quantitative Finance](../src/1.Projects/staging/27arXivQuantitativeFinance.md)  
-* [arXiv Statistics](<../src/1.Projects/staging/28arXiv Statistics.md>)  
-* [arXiv Computer Sci, other than AI](../src/1.Projects/staging/29CSotherthanAI.md)  
+* [arXiv Statistics](../src/1.Projects/staging/28arXiv Statistics.md)
+* [Domain Specific Logic](../src/1.Projects/staging/29DomainSpecificLogic.md)
 * [bioRxiv Animal Behavior and Cognition](../src/1.Projects/staging/30AnimalBehaviorCognition.md)  
 * [bioRxiv Biochemistry](../src/1.Projects/staging/31Biochemistry.md)  
 * [bioRxiv Bioengineering](../src/1.Projects/staging/32Bioengineering.md)
@@ -54,9 +54,6 @@
 * [biorxiv Paleontology](../src/1.Projects/staging/48Paleontology)
 * [biorxiv Pathology](../src/1.Projects/staging/49Pathology)
 * [biorxiv Pharmacology and Toxicology](../src/1.Projects/staging/50PharmacologyToxicology)
-
-### The Following Need A Projects File To Be Created Before Being Added to Above List
-
 * [biorxiv Physiology](../src/1.Projects/staging/51Physiology.md)
 * [biorxiv Plant Biology](../src/1.Projects/staging/52PlantBiology.md)
 * [biorxiv Scientific Communication / Education Research and Technology](../src/1.Projects/staging/53EducationResearchTechnology.md)
@@ -77,6 +74,9 @@
 * [ChemRxiv Organic Chemistry](../src/1.Projects/staging/68OrganicChemistry.md)
 * [ChemRxiv Organometallic Chemistry](../src/1.Projects/staging/69OrganometallicChemistry.md)
 * [ChemRxiv Physical Chemistry](../src/1.Projects/staging/70PhysicalChemistry.md)
+
+### The Following Need A Projects File To Be Created Before Being Added to Above List
+
 * [ChemRxiv Polymer Science](../src/1.Projects/staging/71PolymerScience.md)
 * [ChemRxiv Theoretical and Computational Chemistry](../src/1.Projects/staging/72.md)
 * [medRxiv](../src/1.Projects/staging/73medRxiv.md)
@@ -85,7 +85,7 @@
 * [EarthArXiv](../src/1.Projects/staging/76EarthArXiv.md)
 * [engrXiv](../src/1.Projects/staging/77engrXiv.md)
 * [Various Multidisciplinary / Interdisciplinary](../src/1.Projects/staging/78MultidisciplinaryInterdisciplinary.md)
-* [Research In Other Langauges](../src/1.Projects/staging/79researchInOtherLangauges.md)
+* [Rxiv In Other Langauges](../src/1.Projects/staging/79RxivInOtherLangauges.md)
 * [TechRxiv](../src/1.Projects/staging/80TechRxiv.md)
 * [AgriXiv](../src/1.Projects/staging/81AgriXiv.md)
 * [LawArXiv](../src/1.Projects/staging/82LawArXiv.md)
@@ -105,4 +105,4 @@
 * [Soil Quality Laboratory](../src/1.Projects/staging/96SoilQualityLaboratory.md)
 * [LudicEconomics](../src/1.Projects/staging/97LudicEconomics.md)
 * [Podcastering](../src/1.Projects/staging/98Podcastering.md)
-* [Domain Specific Logic](../src/1.Projects/staging/99DomainSpecificLogic.md)
+* [Miscellaneous](../src/1.Projects/staging/99Miscellaneous.md)
