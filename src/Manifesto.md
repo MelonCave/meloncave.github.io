@@ -14,7 +14,7 @@ In the last decade or so, there has been a solid, sustained, continuing trend to
 
 *As we attempt to go through the process of building out this Personal Knowledge Management (PKM) system, you might ask [why would we be trying or how are we trying to improve our personal knowledge management toolchain or what's the big idea behind PKM](BigPicture.md) ... or maybe you want to [track the project details of our progress on the PKM build as we work through the phases](https://github.com/AncientGuy/PKM/projects) in the 100-day process.*
 
-## Personal Knowledge Management Is CONTEXT ENGINEERING
+## Personal Knowledge Management Is PERSONAL Context Engineering
 
 *Engineering context is about asking questions, sifting, organizing,understanding, organizing, re-organizing information ... in order to have better context, to become better at asking questions and understanding responses.*
 
