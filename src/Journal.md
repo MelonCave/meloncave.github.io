@@ -1,5 +1,8 @@
 ## Daily Journal Notes
 
+* [In the realm of PKM, self-defense has to be seen as an OBLIGATION](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-01.md)
+* [Key differentiators of automated Browser-as-a-Service (BaaS) platforms](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-31.md)
+* [Yes, it's a mess -- but right now, it's just preliminary scaffolding to re-build future scaffolding](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-30.md)
 * [***Thinkering***: The HARD, knuckle-skinning mechanical stepping-through of a thought process](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-29.md)
 * [Project STAGING per BASB P.A.R.A. PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-28.md)
 * [Refocus/refactoring in PKM dev methodology](https://github.com/AncientGuy/PKM/tree/main/journal/2025-10-27.md)
