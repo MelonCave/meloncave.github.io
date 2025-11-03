@@ -5,7 +5,9 @@ tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Rxiv In Other Langauges
+# Rxiv In Other LANGUAGES
+
+This is NOT exactly about understanding geographic locations or the populations of researchers, such as [**arXiv** global AI contributions](https://www.alphaxiv.org/labs/geo-trends) in a dominant or *hegemonically-important* field that "everybody" thinks is *the most important thing*, like AI might be at the current point in history, but instead it's really about the continuing importance of LANGUAGE and how language drives culture, interactions, thinking and priorties or values ... possibly an anti-hegemonic view, if you will.
 
 ## Metadata
 
