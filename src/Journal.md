@@ -1,5 +1,5 @@
 ## Daily Journal Notes
-* [Information as Entropic Change: Thermodynamic Sampling Units For Inference and Comparison](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-04.md)
+* [Information as Entropic Change: Thermodynamic Sampling For Comparison, Inference](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-04.md)
 * [Computerized data visualization tools illustrate how AI works or doesn't](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-03.md)
 * [The Steward's Second Brain: Purpose-Driven Personal Knowledge Management (PKM)](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-02.md)
 * [In the realm of PKM, self-defense has to be seen as an OBLIGATION](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-01.md)
