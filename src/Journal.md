@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [Ludic economic research and playfulness](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-07.md)
+* [For **thinking** about *thinking* ... how do we go beyond just brainrot scrolling](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-06.md)
 * [Project List Categories ... Models, Datasets, Objects, Properties, Links, Actions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-05.md)
 * [Information as Entropic Change: Thermodynamic Sampling For Comparison, Inference](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-04.md)
 * [Computerized data visualization tools illustrate how AI works or doesn't](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-03.md)
