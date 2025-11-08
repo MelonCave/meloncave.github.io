@@ -111,7 +111,7 @@
       - [Second Mover Advantage](2.Areas/95TIPS.md)
       - [Soil Quality](2.Areas/96SoilQualityLaboratory.md)
       - [Ludic Economics](2.Areas/97LudicEconomics.md)
-      - [Podcastering and Outreach](2.Areas/98Podcastering.md)
+      - [Podcastering, Content Mktg and Building Trust](2.Areas/98Podcastering.md)
       - [Miscellaneous](2.Areas/99Miscellaneous.md)
       - [Personal Knowledge Management Systems ](2.Areas/00PKMSystems.md)
     - [Resources](./3.Resources/Template.md)
