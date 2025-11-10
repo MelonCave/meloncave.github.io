@@ -1,6 +1,7 @@
 ## Daily Journal Notes
 
-* [Recovery programs for individuals overcoming substance abuse and all kinds of bad habits](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-07.md)
+* [The role of experience and history in understanding PKM](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-09.md)
+* [Recovery programs for individuals overcoming substance abuse and all kinds of bad habits](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-08.md)
 * [Ludic economic research and playfulness](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-07.md)
 * [For **thinking** about *thinking* ... how do we go beyond just brainrot scrolling](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-06.md)
 * [Project List Categories ... Models, Datasets, Objects, Properties, Links, Actions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-05.md)
