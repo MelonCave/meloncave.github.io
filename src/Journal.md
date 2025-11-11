@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [VERY long long-term project planning for personal lifelong projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-11.md)
 * [Thinking about scaffolding structure using the thoughts behind a simple flood wall](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-10.md)
 * [The role of experience and history in understanding PKM](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-09.md)
 * [Recovery programs for individuals overcoming substance abuse and all kinds of bad habits](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-08.md)
