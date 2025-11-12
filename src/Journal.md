@@ -1,5 +1,5 @@
 ## Daily Journal Notes
-
+* [How does the architecture of my built environment and landscaping PROGRAM ***me***?](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
 * [VERY long long-term project planning for personal lifelong projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-11.md)
 * [Thinking about scaffolding structure using the thoughts behind a simple flood wall](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-10.md)
 * [The role of experience and history in understanding PKM](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-09.md)
