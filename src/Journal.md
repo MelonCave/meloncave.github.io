@@ -1,8 +1,12 @@
 ## Daily Journal Notes
+
+* [Browser OS fiddle-fuckery](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-15.md)
+* [**Browserbase**, **Airtop**, **Browserless** and other hyperbrowser.ai alternative BaaS platforms](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-14.md)
+* [100 MINIMALLY VIABLE CATEGORIES sitting in the Projects STAGING bin](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
 * [Lifestyle self-programming through daily tasks improving built/landscaped environment](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
 * [VERY long long-term project planning for personal lifelong projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-11.md)
 * [Thinking about scaffolding structure using the thoughts behind a simple flood wall](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-10.md)
-* [The role of experience and history in understanding PKM](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-09.md)
+* [The role of experience and hisy in understanding PKM](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-09.md)
 * [Recovery programs for individuals overcoming substance abuse and all kinds of bad habits](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-08.md)
 * [Ludic economic research and playfulness](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-07.md)
 * [For **thinking** about *thinking* ... how do we go beyond just brainrot scrolling](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-06.md)
