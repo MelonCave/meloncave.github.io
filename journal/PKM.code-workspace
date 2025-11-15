@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": ".."
-		},
-		{
-			"name": "PARA",
-			"path": "../../PARA"
 		}
 	],
 	"settings": {}
