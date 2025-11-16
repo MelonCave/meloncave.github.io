@@ -1,7 +1,7 @@
 ## Daily Journal Notes
 
-* [Browser OS and Upstage.AI's Solar Pro 2](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-15.md)
-* [**Browserbase**, **Airtop**, **Browserless** and other hyperbrowser.ai alternative BaaS platforms](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-14.md)
+* [BrowserOS it is ... along with Upstage.AI's Solar Pro 2](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-15.md)
+* [Strawberry Browser OR BrowserOS](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-14.md)
 * [100 MINIMALLY VIABLE CATEGORIES sitting in the Projects STAGING bin](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
 * [Lifestyle self-programming through daily tasks improving built/landscaped environment](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
 * [VERY long long-term project planning for personal lifelong projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-11.md)
