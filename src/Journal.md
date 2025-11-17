@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [Refactoring Refactoring](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-17.md)
+* [Refactoring Projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-16.md)
 * [BrowserOS it is ... along with Upstage.AI's Solar Pro 2](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-15.md)
 * [Strawberry Browser OR BrowserOS](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-14.md)
 * [100 MINIMALLY VIABLE CATEGORIES sitting in the Projects STAGING bin](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-12.md)
