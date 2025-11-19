@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [What's in your melon?](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-19.md)
+* [Local dual 7900 XTXs run 70B-class prototyping tasks for less than 1¢/hour vs. cloud-ideal at $3+/hr for KG evolution](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-19.md)
 * [Refactoring Refactoring](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-17.md)
 * [Refactoring Projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-16.md)
 * [BrowserOS it is ... along with Upstage.AI's Solar Pro 2](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-15.md)
