@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [THINK MORE, build less. There's enough junk in the world, **stop OVERshipping!**](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-21.md)
 * [Surveying the landscape of truly open AI research](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-20.md)
 * [***What's in your melon?*** Understanding something about cognitive inference processes](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-19.md)
 * [Local dual 7900 XTXs run 70B tasks for less than 1¢/hour vs. cloud-ideal at $3+/hr](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-19.md)
