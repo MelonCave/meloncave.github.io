@@ -1,6 +1,7 @@
 ## Daily Journal Notes
 
-* [Annotification](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-23.md)
+* [WITHOUT being hindered by the smugness of past successes](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-24.md)
+* [Annotification and the importance of SIMPLE, human-readable, AI-optimized, curated, annotated lists](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-23.md)
 * [100 candidate list projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-22.md)
 * [THINK MORE, build less. More research, better input data, **stop OVERshipping!**](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-21.md)
 * [Surveying the landscape of truly open AI research](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-20.md)
