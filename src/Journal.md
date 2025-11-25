@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [GEO/AIO tool backgrounders and infrastructure of podcast business engineering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-25.md)
 * [Transcript structuring is now the most important part of podcast engineering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-24.md)
 * [Annotification and the importance of SIMPLE, human-readable, AI-optimized, curated, annotated lists](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-23.md)
 * [100 candidate list projects](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-22.md)
