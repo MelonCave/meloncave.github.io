@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [MelonCave Podcast Strategy Synthesis III: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-28.md)
 * [MelonCave Podcast Strategy Synthesis II: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-27.md)
 * [MelonCave Podcast Strategy Synthesis: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-26.md)
 * [GEO/AIO tool backgrounders and infrastructure of podcast business engineering](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-25.md)
