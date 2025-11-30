@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [100 personal sabotage habits from ESPN's spectator-focus](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-30.md)
+* [100 personal development habits from wrestling](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-29.md)
 * [MelonCave Podcast Strategy Synthesis III: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-28.md)
 * [MelonCave Podcast Strategy Synthesis II: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-27.md)
 * [MelonCave Podcast Strategy Synthesis: Neuroarchitecture & Letting AI Experts Do AI](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-26.md)
