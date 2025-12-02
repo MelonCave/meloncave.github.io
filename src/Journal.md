@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [100 SMARTER gamechangers for podcasting from the last few years](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-02.md)
 * [Podcastering update, assistance with telling stories](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-01.md)
 * [100 personal sabotage habits from ESPN's spectator-focus](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-30.md)
 * [100 personal development habits from wrestling](https://github.com/AncientGuy/PKM/tree/main/journal/2025-11-29.md)
