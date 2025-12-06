@@ -1,5 +1,8 @@
 ## Daily Journal Notes
 
+* [The MelonCave Podcast Plan](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-06.md)
+* [100 Topics in Neuroarchitecture and Improving Cognitive Health](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-05.md)
+* [Developing Podcasting Proficiency Using A Toastmasters-Inspired Approach](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-04.md)
 * [100 ways to SIMPLIFY, yet improve my life](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-03.md)
 * [100 SMARTER gamechangers for podcasting from the last few years](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-02.md)
 * [Podcastering update, assistance with telling stories](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-01.md)
