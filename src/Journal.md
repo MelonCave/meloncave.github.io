@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Simulation and Estimation of Fractional Brownian Motion](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-09.md)
 * [R&D Funding Sources for Scientists, Engineers, and Tinkerers Across the Innovation Ecosystem](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-08.md)
 * [The Neurograin Ecosystem](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-07.md)
 * [The MelonCave Podcast Plan](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-06.md)
