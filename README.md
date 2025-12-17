@@ -1,6 +1,6 @@
 # So That We May BETTER Train Ourselves
 
-This is about ***caving in the melon*** of those demon that wants us to to quit. The solution is going to be about whatever is stopping us from taking greater responsibility for developing better open source ways *to program ourselves ... so that we may BETTER train ourselves.*
+MelonCave is about ***caving in the melon*** of that personal demon who wants us to to quit ... it's really about overcoming the bad habits and addictions of being ourselves. The solution is going to be about the AA/Celebrate Recovery process, to humble ourselves, acknowledging a higher power, using every weapon in our arsenal to ***caving in the melon*** of that personal demon who wants us to to give up and just go along with the easy, quickie bandaid fixes. This is not easy of course, because it's personal and involves attacking our love of those personal habits, addictions, behaviors that that are stopping us from taking greater responsibility for developing better open source ways *to program ourselves ... so that we may BETTER train ourselves.*
 
 [Philippians 4:8-9](https://www.gotquestions.org/think-about-these-things.html) admonishes us to diligently ponder *“whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable, . . . excellent, or praiseworthy.”* 
 
