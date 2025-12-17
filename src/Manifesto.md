@@ -2,7 +2,7 @@
 
 Cognitive fitness is primarily about overcoming the bad habits of being ourselves ... to help us in accomplising that we develop Personal Knowledge Management (PKM) systems which also helps us with our overall powers of critical thinking and informed, self-aware cognitive fitness improvement. Our PKM systems are focused upon knowledge that managed for a particular purpose in self-improvement or at least a degree of self-maintenance. Specifically we try to improve our PKM systems to PRIORITIZE better intelligence gathering, improve information resources and generally obtain better awareness of knowledge and tools like AI assistants to drive improvements in optimized portfolios of time/resources.
 
-*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of this PKM process](Journal.md).* Or, maybe you will find that a little unnerving or overwhelming ... or *just plain useless* ... but it's all open and transparent.
+*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal of MelonCave podcastering process](Journal.md).* Or, maybe you will find that to be pointless or a *view not worth the climb* or possibly overwhelming ... and probably *just plain useless* to use ... but the point of opening the kimono with the full journal is err on the side  of being open and transparent.
 
 # So That We May BETTER Train Ourselves
 
