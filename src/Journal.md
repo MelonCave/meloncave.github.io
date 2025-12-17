@@ -1,5 +1,12 @@
 ## Daily Journal Notes
 
+* [100 Pathways to Cognitive Health](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-17.md)
+* [Attention Economy of Artificial Intelligence](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-16.md)
+* [Comparing the fractal efficiency of Bitcoin against risky assets](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-15.md)
+* [Curated "Hall of Fame" for (1980–2010) tech writing that defined internet culture](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-14.md)
+* [Gamified interactions from ludic economics to challenge assumptions](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-13.md)
+* [Affordable and Open-Source Tech for Small-Scale Neuroarchitecture Research](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-12.md)
+* [Biophilic Design Benefits: A Neuroarchitectural Perspective](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-11.md)
 * [The Fractal Geometry of Hype, Drought, and Floods](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-10.md)
 * [Simulation and Estimation of Fractional Brownian Motion](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-09.md)
 * [R&D Funding Sources for Scientists, Engineers, and Tinkerers Across the Innovation Ecosystem](https://github.com/AncientGuy/PKM/tree/main/journal/2025-12-08.md)
