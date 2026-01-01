@@ -17,5 +17,5 @@
 * [Breathwork, Capnography and Biofeedback in Psychophysiology](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-21.md)
 * [Podcastering, Discipline, and Neuroarchitecture](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-20.md)
 * [ORIGINAL, Unrevised Rough Draft Of MelonCave Podcast Plan](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-19.md)
-* [ORIGINAL, Unrevised Rough Draft Of MelonCave Podcast Plan](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-18.md)
-* [ORIGINAL, Unrevised Rough Draft Of MelonCave Podcast Plan](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-17.md)
+* [Convergence of Cryptographic Truth, Thermodynamic Economics, and the Future of Scientific Consensus](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-18.md)
+* [Information-Backed Currencies, DePIN, and Decentralized Science](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2025-12-17.md)
