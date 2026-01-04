@@ -1,9 +1,9 @@
 ## Daily Journal Notes
 
-* [Obituary Still In Progress ... Actualizing 10 Principles for a Life Defined by Meaning](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-08.md)
+* [Actualizing 10 Principles for a Life Defined by Meaning](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-08.md)
 * [TBE](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-07.md)
-* * [TBD](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-06.md)
-* * [TBC](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-05.md)
+* [TBD](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-06.md)
+* [TBC](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-05.md)
 * [100 Growth-Based Podcast Topics On Neuroscientific Inquiry](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-04.md)
 * [Items To Ponder As Advice For My Younger Self](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-03.md)
 * [PERSONAL Minimalist Living and Basic Needs](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-02.md)
